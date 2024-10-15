@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	google-bert/bert-base-multilingual-cased	reflexives_across	1.4171274287998676	1.4171274287998676	0.7250446428571429

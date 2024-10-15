@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	bert-base-cased	subj_rel	2.553136747548623	2.553136747548623	0.818125

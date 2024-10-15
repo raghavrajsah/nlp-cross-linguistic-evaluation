@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	google-bert/bert-base-multilingual-cased	simple_agrmt	0.2525453272719115	0.2525453272719115	0.6535714285714286

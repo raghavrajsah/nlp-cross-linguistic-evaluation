@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	google-bert/bert-base-multilingual-cased	reflexive_sent_comp	1.6306274577265694	1.6306274577265694	0.737202380952381

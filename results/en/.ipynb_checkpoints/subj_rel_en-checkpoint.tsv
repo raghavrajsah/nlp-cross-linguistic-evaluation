@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	google-bert/bert-base-multilingual-cased	subj_rel	0.3906548748903775	0.3906548748903775	0.5403571428571429

@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	google-bert/bert-base-multilingual-cased	simple_reflexives	1.4144724692617143	1.4144724692617143	0.6285714285714286

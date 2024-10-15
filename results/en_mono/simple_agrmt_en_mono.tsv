@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	bert-base-cased	simple_agrmt	5.250901872026069	5.250901872026069	0.8857142857142857

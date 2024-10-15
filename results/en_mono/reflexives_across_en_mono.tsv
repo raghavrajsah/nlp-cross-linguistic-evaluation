@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	bert-base-cased	reflexives_across	2.035850799956492	2.035850799956492	0.8797767857142857

@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	google-bert/bert-base-multilingual-cased	vp_coord	0.7222351536420839	0.7222351536420839	0.6755102040816326

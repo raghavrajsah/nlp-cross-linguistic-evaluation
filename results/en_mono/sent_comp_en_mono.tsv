@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	bert-base-cased	sent_comp	3.5489987218663805	3.5489987218663805	0.7619047619047619

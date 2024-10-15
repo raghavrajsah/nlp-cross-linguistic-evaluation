@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	bert-base-cased	simple_reflexives	2.5539567393915994	2.5539567393915994	0.8571428571428571

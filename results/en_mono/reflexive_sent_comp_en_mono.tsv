@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	bert-base-cased	reflexive_sent_comp	0.9068159446829842	0.9068159446829842	0.6285714285714286

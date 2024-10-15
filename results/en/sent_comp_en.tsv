@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	google-bert/bert-base-multilingual-cased	sent_comp	2.497947700244803	2.497947700244803	0.7595238095238095

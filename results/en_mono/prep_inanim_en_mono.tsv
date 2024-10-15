@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	bert-base-cased	prep	4.157963758247298	4.157963758247298	0.9236111111111112
