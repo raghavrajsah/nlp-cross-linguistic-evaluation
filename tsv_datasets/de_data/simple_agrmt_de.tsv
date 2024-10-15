@@ -1,0 +1,281 @@
+sentid	comparison	pairid	contextid	lemma	condition	sentence	ROI
+1	expected	1	1	sind	simple_agrmt	die Schriftsteller sind alt	2
+2	unexpected	1	1	sind	simple_agrmt	die Schriftsteller ist alt	2
+3	expected	2	2	sind	simple_agrmt	die Schriftsteller sind jung	2
+4	unexpected	2	2	sind	simple_agrmt	die Schriftsteller ist jung	2
+5	expected	3	3	sind	simple_agrmt	die Schriftsteller sind klein	2
+6	unexpected	3	3	sind	simple_agrmt	die Schriftsteller ist klein	2
+7	expected	4	4	sind	simple_agrmt	die Schriftsteller sind groß	2
+8	unexpected	4	4	sind	simple_agrmt	die Schriftsteller ist groß	2
+9	expected	5	5	schwimmen	simple_agrmt	die Schriftsteller schwimmen	2
+10	unexpected	5	5	schwimmen	simple_agrmt	die Schriftsteller schwimmt	2
+11	expected	6	6	sprechen	simple_agrmt	die Schriftsteller sprechen	2
+12	unexpected	6	6	sprechen	simple_agrmt	die Schriftsteller spricht	2
+13	expected	7	7	lachen	simple_agrmt	die Schriftsteller lachen	2
+14	unexpected	7	7	lachen	simple_agrmt	die Schriftsteller lacht	2
+15	expected	8	8	sind	simple_agrmt	die Direktoren sind alt	2
+16	unexpected	8	8	sind	simple_agrmt	die Direktoren ist alt	2
+17	expected	9	9	sind	simple_agrmt	die Direktoren sind jung	2
+18	unexpected	9	9	sind	simple_agrmt	die Direktoren ist jung	2
+19	expected	10	10	sind	simple_agrmt	die Direktoren sind klein	2
+20	unexpected	10	10	sind	simple_agrmt	die Direktoren ist klein	2
+21	expected	11	11	sind	simple_agrmt	die Direktoren sind groß	2
+22	unexpected	11	11	sind	simple_agrmt	die Direktoren ist groß	2
+23	expected	12	12	schwimmen	simple_agrmt	die Direktoren schwimmen	2
+24	unexpected	12	12	schwimmen	simple_agrmt	die Direktoren schwimmt	2
+25	expected	13	13	sprechen	simple_agrmt	die Direktoren sprechen	2
+26	unexpected	13	13	sprechen	simple_agrmt	die Direktoren spricht	2
+27	expected	14	14	lachen	simple_agrmt	die Direktoren lachen	2
+28	unexpected	14	14	lachen	simple_agrmt	die Direktoren lacht	2
+29	expected	15	15	sind	simple_agrmt	die Bauern sind alt	2
+30	unexpected	15	15	sind	simple_agrmt	die Bauern ist alt	2
+31	expected	16	16	sind	simple_agrmt	die Bauern sind jung	2
+32	unexpected	16	16	sind	simple_agrmt	die Bauern ist jung	2
+33	expected	17	17	sind	simple_agrmt	die Bauern sind klein	2
+34	unexpected	17	17	sind	simple_agrmt	die Bauern ist klein	2
+35	expected	18	18	sind	simple_agrmt	die Bauern sind groß	2
+36	unexpected	18	18	sind	simple_agrmt	die Bauern ist groß	2
+37	expected	19	19	schwimmen	simple_agrmt	die Bauern schwimmen	2
+38	unexpected	19	19	schwimmen	simple_agrmt	die Bauern schwimmt	2
+39	expected	20	20	sprechen	simple_agrmt	die Bauern sprechen	2
+40	unexpected	20	20	sprechen	simple_agrmt	die Bauern spricht	2
+41	expected	21	21	lachen	simple_agrmt	die Bauern lachen	2
+42	unexpected	21	21	lachen	simple_agrmt	die Bauern lacht	2
+43	expected	22	22	sind	simple_agrmt	die Chirurgen sind alt	2
+44	unexpected	22	22	sind	simple_agrmt	die Chirurgen ist alt	2
+45	expected	23	23	sind	simple_agrmt	die Chirurgen sind jung	2
+46	unexpected	23	23	sind	simple_agrmt	die Chirurgen ist jung	2
+47	expected	24	24	sind	simple_agrmt	die Chirurgen sind klein	2
+48	unexpected	24	24	sind	simple_agrmt	die Chirurgen ist klein	2
+49	expected	25	25	sind	simple_agrmt	die Chirurgen sind groß	2
+50	unexpected	25	25	sind	simple_agrmt	die Chirurgen ist groß	2
+51	expected	26	26	schwimmen	simple_agrmt	die Chirurgen schwimmen	2
+52	unexpected	26	26	schwimmen	simple_agrmt	die Chirurgen schwimmt	2
+53	expected	27	27	sprechen	simple_agrmt	die Chirurgen sprechen	2
+54	unexpected	27	27	sprechen	simple_agrmt	die Chirurgen spricht	2
+55	expected	28	28	lachen	simple_agrmt	die Chirurgen lachen	2
+56	unexpected	28	28	lachen	simple_agrmt	die Chirurgen lacht	2
+57	expected	29	29	sind	simple_agrmt	die Senatoren sind alt	2
+58	unexpected	29	29	sind	simple_agrmt	die Senatoren ist alt	2
+59	expected	30	30	sind	simple_agrmt	die Senatoren sind jung	2
+60	unexpected	30	30	sind	simple_agrmt	die Senatoren ist jung	2
+61	expected	31	31	sind	simple_agrmt	die Senatoren sind klein	2
+62	unexpected	31	31	sind	simple_agrmt	die Senatoren ist klein	2
+63	expected	32	32	sind	simple_agrmt	die Senatoren sind groß	2
+64	unexpected	32	32	sind	simple_agrmt	die Senatoren ist groß	2
+65	expected	33	33	schwimmen	simple_agrmt	die Senatoren schwimmen	2
+66	unexpected	33	33	schwimmen	simple_agrmt	die Senatoren schwimmt	2
+67	expected	34	34	sprechen	simple_agrmt	die Senatoren sprechen	2
+68	unexpected	34	34	sprechen	simple_agrmt	die Senatoren spricht	2
+69	expected	35	35	lachen	simple_agrmt	die Senatoren lachen	2
+70	unexpected	35	35	lachen	simple_agrmt	die Senatoren lacht	2
+71	expected	36	36	sind	simple_agrmt	die Lehrer sind alt	2
+72	unexpected	36	36	sind	simple_agrmt	die Lehrer ist alt	2
+73	expected	37	37	sind	simple_agrmt	die Lehrer sind jung	2
+74	unexpected	37	37	sind	simple_agrmt	die Lehrer ist jung	2
+75	expected	38	38	sind	simple_agrmt	die Lehrer sind klein	2
+76	unexpected	38	38	sind	simple_agrmt	die Lehrer ist klein	2
+77	expected	39	39	sind	simple_agrmt	die Lehrer sind groß	2
+78	unexpected	39	39	sind	simple_agrmt	die Lehrer ist groß	2
+79	expected	40	40	schwimmen	simple_agrmt	die Lehrer schwimmen	2
+80	unexpected	40	40	schwimmen	simple_agrmt	die Lehrer schwimmt	2
+81	expected	41	41	sprechen	simple_agrmt	die Lehrer sprechen	2
+82	unexpected	41	41	sprechen	simple_agrmt	die Lehrer spricht	2
+83	expected	42	42	lachen	simple_agrmt	die Lehrer lachen	2
+84	unexpected	42	42	lachen	simple_agrmt	die Lehrer lacht	2
+85	expected	43	43	sind	simple_agrmt	die Kunden sind alt	2
+86	unexpected	43	43	sind	simple_agrmt	die Kunden ist alt	2
+87	expected	44	44	sind	simple_agrmt	die Kunden sind jung	2
+88	unexpected	44	44	sind	simple_agrmt	die Kunden ist jung	2
+89	expected	45	45	sind	simple_agrmt	die Kunden sind klein	2
+90	unexpected	45	45	sind	simple_agrmt	die Kunden ist klein	2
+91	expected	46	46	sind	simple_agrmt	die Kunden sind groß	2
+92	unexpected	46	46	sind	simple_agrmt	die Kunden ist groß	2
+93	expected	47	47	schwimmen	simple_agrmt	die Kunden schwimmen	2
+94	unexpected	47	47	schwimmen	simple_agrmt	die Kunden schwimmt	2
+95	expected	48	48	sprechen	simple_agrmt	die Kunden sprechen	2
+96	unexpected	48	48	sprechen	simple_agrmt	die Kunden spricht	2
+97	expected	49	49	lachen	simple_agrmt	die Kunden lachen	2
+98	unexpected	49	49	lachen	simple_agrmt	die Kunden lacht	2
+99	expected	50	50	sind	simple_agrmt	die Polizisten sind alt	2
+100	unexpected	50	50	sind	simple_agrmt	die Polizisten ist alt	2
+101	expected	51	51	sind	simple_agrmt	die Polizisten sind jung	2
+102	unexpected	51	51	sind	simple_agrmt	die Polizisten ist jung	2
+103	expected	52	52	sind	simple_agrmt	die Polizisten sind klein	2
+104	unexpected	52	52	sind	simple_agrmt	die Polizisten ist klein	2
+105	expected	53	53	sind	simple_agrmt	die Polizisten sind groß	2
+106	unexpected	53	53	sind	simple_agrmt	die Polizisten ist groß	2
+107	expected	54	54	schwimmen	simple_agrmt	die Polizisten schwimmen	2
+108	unexpected	54	54	schwimmen	simple_agrmt	die Polizisten schwimmt	2
+109	expected	55	55	sprechen	simple_agrmt	die Polizisten sprechen	2
+110	unexpected	55	55	sprechen	simple_agrmt	die Polizisten spricht	2
+111	expected	56	56	lachen	simple_agrmt	die Polizisten lachen	2
+112	unexpected	56	56	lachen	simple_agrmt	die Polizisten lacht	2
+113	expected	57	57	sind	simple_agrmt	die Piloten sind alt	2
+114	unexpected	57	57	sind	simple_agrmt	die Piloten ist alt	2
+115	expected	58	58	sind	simple_agrmt	die Piloten sind jung	2
+116	unexpected	58	58	sind	simple_agrmt	die Piloten ist jung	2
+117	expected	59	59	sind	simple_agrmt	die Piloten sind klein	2
+118	unexpected	59	59	sind	simple_agrmt	die Piloten ist klein	2
+119	expected	60	60	sind	simple_agrmt	die Piloten sind groß	2
+120	unexpected	60	60	sind	simple_agrmt	die Piloten ist groß	2
+121	expected	61	61	schwimmen	simple_agrmt	die Piloten schwimmen	2
+122	unexpected	61	61	schwimmen	simple_agrmt	die Piloten schwimmt	2
+123	expected	62	62	sprechen	simple_agrmt	die Piloten sprechen	2
+124	unexpected	62	62	sprechen	simple_agrmt	die Piloten spricht	2
+125	expected	63	63	lachen	simple_agrmt	die Piloten lachen	2
+126	unexpected	63	63	lachen	simple_agrmt	die Piloten lacht	2
+127	expected	64	64	sind	simple_agrmt	die Berater sind alt	2
+128	unexpected	64	64	sind	simple_agrmt	die Berater ist alt	2
+129	expected	65	65	sind	simple_agrmt	die Berater sind jung	2
+130	unexpected	65	65	sind	simple_agrmt	die Berater ist jung	2
+131	expected	66	66	sind	simple_agrmt	die Berater sind klein	2
+132	unexpected	66	66	sind	simple_agrmt	die Berater ist klein	2
+133	expected	67	67	sind	simple_agrmt	die Berater sind groß	2
+134	unexpected	67	67	sind	simple_agrmt	die Berater ist groß	2
+135	expected	68	68	schwimmen	simple_agrmt	die Berater schwimmen	2
+136	unexpected	68	68	schwimmen	simple_agrmt	die Berater schwimmt	2
+137	expected	69	69	sprechen	simple_agrmt	die Berater sprechen	2
+138	unexpected	69	69	sprechen	simple_agrmt	die Berater spricht	2
+139	expected	70	70	lachen	simple_agrmt	die Berater lachen	2
+140	unexpected	70	70	lachen	simple_agrmt	die Berater lacht	2
+141	expected	71	71	ist	simple_agrmt	der Schriftsteller ist alt	2
+142	unexpected	71	71	ist	simple_agrmt	der Schriftsteller sind alt	2
+143	expected	72	72	ist	simple_agrmt	der Schriftsteller ist jung	2
+144	unexpected	72	72	ist	simple_agrmt	der Schriftsteller sind jung	2
+145	expected	73	73	ist	simple_agrmt	der Schriftsteller ist klein	2
+146	unexpected	73	73	ist	simple_agrmt	der Schriftsteller sind klein	2
+147	expected	74	74	ist	simple_agrmt	der Schriftsteller ist groß	2
+148	unexpected	74	74	ist	simple_agrmt	der Schriftsteller sind groß	2
+149	expected	75	75	schwimmt	simple_agrmt	der Schriftsteller schwimmt	2
+150	unexpected	75	75	schwimmt	simple_agrmt	der Schriftsteller schwimmen	2
+151	expected	76	76	spricht	simple_agrmt	der Schriftsteller spricht	2
+152	unexpected	76	76	spricht	simple_agrmt	der Schriftsteller sprechen	2
+153	expected	77	77	lacht	simple_agrmt	der Schriftsteller lacht	2
+154	unexpected	77	77	lacht	simple_agrmt	der Schriftsteller lachen	2
+155	expected	78	78	ist	simple_agrmt	der Direktor ist alt	2
+156	unexpected	78	78	ist	simple_agrmt	der Direktor sind alt	2
+157	expected	79	79	ist	simple_agrmt	der Direktor ist jung	2
+158	unexpected	79	79	ist	simple_agrmt	der Direktor sind jung	2
+159	expected	80	80	ist	simple_agrmt	der Direktor ist klein	2
+160	unexpected	80	80	ist	simple_agrmt	der Direktor sind klein	2
+161	expected	81	81	ist	simple_agrmt	der Direktor ist groß	2
+162	unexpected	81	81	ist	simple_agrmt	der Direktor sind groß	2
+163	expected	82	82	schwimmt	simple_agrmt	der Direktor schwimmt	2
+164	unexpected	82	82	schwimmt	simple_agrmt	der Direktor schwimmen	2
+165	expected	83	83	spricht	simple_agrmt	der Direktor spricht	2
+166	unexpected	83	83	spricht	simple_agrmt	der Direktor sprechen	2
+167	expected	84	84	lacht	simple_agrmt	der Direktor lacht	2
+168	unexpected	84	84	lacht	simple_agrmt	der Direktor lachen	2
+169	expected	85	85	ist	simple_agrmt	der Bauer ist alt	2
+170	unexpected	85	85	ist	simple_agrmt	der Bauer sind alt	2
+171	expected	86	86	ist	simple_agrmt	der Bauer ist jung	2
+172	unexpected	86	86	ist	simple_agrmt	der Bauer sind jung	2
+173	expected	87	87	ist	simple_agrmt	der Bauer ist klein	2
+174	unexpected	87	87	ist	simple_agrmt	der Bauer sind klein	2
+175	expected	88	88	ist	simple_agrmt	der Bauer ist groß	2
+176	unexpected	88	88	ist	simple_agrmt	der Bauer sind groß	2
+177	expected	89	89	schwimmt	simple_agrmt	der Bauer schwimmt	2
+178	unexpected	89	89	schwimmt	simple_agrmt	der Bauer schwimmen	2
+179	expected	90	90	spricht	simple_agrmt	der Bauer spricht	2
+180	unexpected	90	90	spricht	simple_agrmt	der Bauer sprechen	2
+181	expected	91	91	lacht	simple_agrmt	der Bauer lacht	2
+182	unexpected	91	91	lacht	simple_agrmt	der Bauer lachen	2
+183	expected	92	92	ist	simple_agrmt	der Chirurg ist alt	2
+184	unexpected	92	92	ist	simple_agrmt	der Chirurg sind alt	2
+185	expected	93	93	ist	simple_agrmt	der Chirurg ist jung	2
+186	unexpected	93	93	ist	simple_agrmt	der Chirurg sind jung	2
+187	expected	94	94	ist	simple_agrmt	der Chirurg ist klein	2
+188	unexpected	94	94	ist	simple_agrmt	der Chirurg sind klein	2
+189	expected	95	95	ist	simple_agrmt	der Chirurg ist groß	2
+190	unexpected	95	95	ist	simple_agrmt	der Chirurg sind groß	2
+191	expected	96	96	schwimmt	simple_agrmt	der Chirurg schwimmt	2
+192	unexpected	96	96	schwimmt	simple_agrmt	der Chirurg schwimmen	2
+193	expected	97	97	spricht	simple_agrmt	der Chirurg spricht	2
+194	unexpected	97	97	spricht	simple_agrmt	der Chirurg sprechen	2
+195	expected	98	98	lacht	simple_agrmt	der Chirurg lacht	2
+196	unexpected	98	98	lacht	simple_agrmt	der Chirurg lachen	2
+197	expected	99	99	ist	simple_agrmt	der Senator ist alt	2
+198	unexpected	99	99	ist	simple_agrmt	der Senator sind alt	2
+199	expected	100	100	ist	simple_agrmt	der Senator ist jung	2
+200	unexpected	100	100	ist	simple_agrmt	der Senator sind jung	2
+201	expected	101	101	ist	simple_agrmt	der Senator ist klein	2
+202	unexpected	101	101	ist	simple_agrmt	der Senator sind klein	2
+203	expected	102	102	ist	simple_agrmt	der Senator ist groß	2
+204	unexpected	102	102	ist	simple_agrmt	der Senator sind groß	2
+205	expected	103	103	schwimmt	simple_agrmt	der Senator schwimmt	2
+206	unexpected	103	103	schwimmt	simple_agrmt	der Senator schwimmen	2
+207	expected	104	104	spricht	simple_agrmt	der Senator spricht	2
+208	unexpected	104	104	spricht	simple_agrmt	der Senator sprechen	2
+209	expected	105	105	lacht	simple_agrmt	der Senator lacht	2
+210	unexpected	105	105	lacht	simple_agrmt	der Senator lachen	2
+211	expected	106	106	ist	simple_agrmt	der Lehrer ist alt	2
+212	unexpected	106	106	ist	simple_agrmt	der Lehrer sind alt	2
+213	expected	107	107	ist	simple_agrmt	der Lehrer ist jung	2
+214	unexpected	107	107	ist	simple_agrmt	der Lehrer sind jung	2
+215	expected	108	108	ist	simple_agrmt	der Lehrer ist klein	2
+216	unexpected	108	108	ist	simple_agrmt	der Lehrer sind klein	2
+217	expected	109	109	ist	simple_agrmt	der Lehrer ist groß	2
+218	unexpected	109	109	ist	simple_agrmt	der Lehrer sind groß	2
+219	expected	110	110	schwimmt	simple_agrmt	der Lehrer schwimmt	2
+220	unexpected	110	110	schwimmt	simple_agrmt	der Lehrer schwimmen	2
+221	expected	111	111	spricht	simple_agrmt	der Lehrer spricht	2
+222	unexpected	111	111	spricht	simple_agrmt	der Lehrer sprechen	2
+223	expected	112	112	lacht	simple_agrmt	der Lehrer lacht	2
+224	unexpected	112	112	lacht	simple_agrmt	der Lehrer lachen	2
+225	expected	113	113	ist	simple_agrmt	der Kunde ist alt	2
+226	unexpected	113	113	ist	simple_agrmt	der Kunde sind alt	2
+227	expected	114	114	ist	simple_agrmt	der Kunde ist jung	2
+228	unexpected	114	114	ist	simple_agrmt	der Kunde sind jung	2
+229	expected	115	115	ist	simple_agrmt	der Kunde ist klein	2
+230	unexpected	115	115	ist	simple_agrmt	der Kunde sind klein	2
+231	expected	116	116	ist	simple_agrmt	der Kunde ist groß	2
+232	unexpected	116	116	ist	simple_agrmt	der Kunde sind groß	2
+233	expected	117	117	schwimmt	simple_agrmt	der Kunde schwimmt	2
+234	unexpected	117	117	schwimmt	simple_agrmt	der Kunde schwimmen	2
+235	expected	118	118	spricht	simple_agrmt	der Kunde spricht	2
+236	unexpected	118	118	spricht	simple_agrmt	der Kunde sprechen	2
+237	expected	119	119	lacht	simple_agrmt	der Kunde lacht	2
+238	unexpected	119	119	lacht	simple_agrmt	der Kunde lachen	2
+239	expected	120	120	ist	simple_agrmt	der Polizist ist alt	2
+240	unexpected	120	120	ist	simple_agrmt	der Polizist sind alt	2
+241	expected	121	121	ist	simple_agrmt	der Polizist ist jung	2
+242	unexpected	121	121	ist	simple_agrmt	der Polizist sind jung	2
+243	expected	122	122	ist	simple_agrmt	der Polizist ist klein	2
+244	unexpected	122	122	ist	simple_agrmt	der Polizist sind klein	2
+245	expected	123	123	ist	simple_agrmt	der Polizist ist groß	2
+246	unexpected	123	123	ist	simple_agrmt	der Polizist sind groß	2
+247	expected	124	124	schwimmt	simple_agrmt	der Polizist schwimmt	2
+248	unexpected	124	124	schwimmt	simple_agrmt	der Polizist schwimmen	2
+249	expected	125	125	spricht	simple_agrmt	der Polizist spricht	2
+250	unexpected	125	125	spricht	simple_agrmt	der Polizist sprechen	2
+251	expected	126	126	lacht	simple_agrmt	der Polizist lacht	2
+252	unexpected	126	126	lacht	simple_agrmt	der Polizist lachen	2
+253	expected	127	127	ist	simple_agrmt	der Pilot ist alt	2
+254	unexpected	127	127	ist	simple_agrmt	der Pilot sind alt	2
+255	expected	128	128	ist	simple_agrmt	der Pilot ist jung	2
+256	unexpected	128	128	ist	simple_agrmt	der Pilot sind jung	2
+257	expected	129	129	ist	simple_agrmt	der Pilot ist klein	2
+258	unexpected	129	129	ist	simple_agrmt	der Pilot sind klein	2
+259	expected	130	130	ist	simple_agrmt	der Pilot ist groß	2
+260	unexpected	130	130	ist	simple_agrmt	der Pilot sind groß	2
+261	expected	131	131	schwimmt	simple_agrmt	der Pilot schwimmt	2
+262	unexpected	131	131	schwimmt	simple_agrmt	der Pilot schwimmen	2
+263	expected	132	132	spricht	simple_agrmt	der Pilot spricht	2
+264	unexpected	132	132	spricht	simple_agrmt	der Pilot sprechen	2
+265	expected	133	133	lacht	simple_agrmt	der Pilot lacht	2
+266	unexpected	133	133	lacht	simple_agrmt	der Pilot lachen	2
+267	expected	134	134	ist	simple_agrmt	der Berater ist alt	2
+268	unexpected	134	134	ist	simple_agrmt	der Berater sind alt	2
+269	expected	135	135	ist	simple_agrmt	der Berater ist jung	2
+270	unexpected	135	135	ist	simple_agrmt	der Berater sind jung	2
+271	expected	136	136	ist	simple_agrmt	der Berater ist klein	2
+272	unexpected	136	136	ist	simple_agrmt	der Berater sind klein	2
+273	expected	137	137	ist	simple_agrmt	der Berater ist groß	2
+274	unexpected	137	137	ist	simple_agrmt	der Berater sind groß	2
+275	expected	138	138	schwimmt	simple_agrmt	der Berater schwimmt	2
+276	unexpected	138	138	schwimmt	simple_agrmt	der Berater schwimmen	2
+277	expected	139	139	spricht	simple_agrmt	der Berater spricht	2
+278	unexpected	139	139	spricht	simple_agrmt	der Berater sprechen	2
+279	expected	140	140	lacht	simple_agrmt	der Berater lacht	2
+280	unexpected	140	140	lacht	simple_agrmt	der Berater lachen	2

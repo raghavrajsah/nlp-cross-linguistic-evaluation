@@ -1,0 +1,1001 @@
+sentid	comparison	pairid	contextid	lemma	condition	sentence	ROI
+1	expected	1	1	connaît	long_vp_coord	l' auteur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+2	unexpected	1	1	connaît	long_vp_coord	l' auteur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+3	expected	2	2	aime	long_vp_coord	l' auteur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+4	unexpected	2	2	aime	long_vp_coord	l' auteur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+5	expected	3	3	a	long_vp_coord	l' auteur connaît beaucoup de langues étrangères et a vingt trois ans	8
+6	unexpected	3	3	a	long_vp_coord	l' auteur connaît beaucoup de langues étrangères et ont vingt trois ans	8
+7	expected	4	4	préfère	long_vp_coord	l' auteur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+8	unexpected	4	4	préfère	long_vp_coord	l' auteur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+9	expected	5	5	écrit	long_vp_coord	l' auteur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+10	unexpected	5	5	écrit	long_vp_coord	l' auteur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+11	expected	6	6	connaît	long_vp_coord	le directeur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+12	unexpected	6	6	connaît	long_vp_coord	le directeur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+13	expected	7	7	aime	long_vp_coord	le directeur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+14	unexpected	7	7	aime	long_vp_coord	le directeur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+15	expected	8	8	a	long_vp_coord	le directeur connaît beaucoup de langues étrangères et a vingt trois ans	8
+16	unexpected	8	8	a	long_vp_coord	le directeur connaît beaucoup de langues étrangères et ont vingt trois ans	8
+17	expected	9	9	préfère	long_vp_coord	le directeur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+18	unexpected	9	9	préfère	long_vp_coord	le directeur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+19	expected	10	10	écrit	long_vp_coord	le directeur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+20	unexpected	10	10	écrit	long_vp_coord	le directeur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+21	expected	11	11	connaît	long_vp_coord	l' agriculteur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+22	unexpected	11	11	connaît	long_vp_coord	l' agriculteur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+23	expected	12	12	aime	long_vp_coord	l' agriculteur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+24	unexpected	12	12	aime	long_vp_coord	l' agriculteur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+25	expected	13	13	a	long_vp_coord	l' agriculteur connaît beaucoup de langues étrangères et a vingt trois ans	8
+26	unexpected	13	13	a	long_vp_coord	l' agriculteur connaît beaucoup de langues étrangères et ont vingt trois ans	8
+27	expected	14	14	préfère	long_vp_coord	l' agriculteur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+28	unexpected	14	14	préfère	long_vp_coord	l' agriculteur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+29	expected	15	15	écrit	long_vp_coord	l' agriculteur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+30	unexpected	15	15	écrit	long_vp_coord	l' agriculteur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+31	expected	16	16	connaît	long_vp_coord	le chirurgien connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+32	unexpected	16	16	connaît	long_vp_coord	le chirurgien connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+33	expected	17	17	aime	long_vp_coord	le chirurgien connaît beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+34	unexpected	17	17	aime	long_vp_coord	le chirurgien connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+35	expected	18	18	a	long_vp_coord	le chirurgien connaît beaucoup de langues étrangères et a vingt trois ans	8
+36	unexpected	18	18	a	long_vp_coord	le chirurgien connaît beaucoup de langues étrangères et ont vingt trois ans	8
+37	expected	19	19	préfère	long_vp_coord	le chirurgien connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+38	unexpected	19	19	préfère	long_vp_coord	le chirurgien connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+39	expected	20	20	écrit	long_vp_coord	le chirurgien connaît beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+40	unexpected	20	20	écrit	long_vp_coord	le chirurgien connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+41	expected	21	21	connaît	long_vp_coord	le sénateur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+42	unexpected	21	21	connaît	long_vp_coord	le sénateur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+43	expected	22	22	aime	long_vp_coord	le sénateur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+44	unexpected	22	22	aime	long_vp_coord	le sénateur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+45	expected	23	23	a	long_vp_coord	le sénateur connaît beaucoup de langues étrangères et a vingt trois ans	8
+46	unexpected	23	23	a	long_vp_coord	le sénateur connaît beaucoup de langues étrangères et ont vingt trois ans	8
+47	expected	24	24	préfère	long_vp_coord	le sénateur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+48	unexpected	24	24	préfère	long_vp_coord	le sénateur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+49	expected	25	25	écrit	long_vp_coord	le sénateur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+50	unexpected	25	25	écrit	long_vp_coord	le sénateur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+51	expected	26	26	connaît	long_vp_coord	le professeur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+52	unexpected	26	26	connaît	long_vp_coord	le professeur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+53	expected	27	27	aime	long_vp_coord	le professeur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+54	unexpected	27	27	aime	long_vp_coord	le professeur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+55	expected	28	28	a	long_vp_coord	le professeur connaît beaucoup de langues étrangères et a vingt trois ans	8
+56	unexpected	28	28	a	long_vp_coord	le professeur connaît beaucoup de langues étrangères et ont vingt trois ans	8
+57	expected	29	29	préfère	long_vp_coord	le professeur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+58	unexpected	29	29	préfère	long_vp_coord	le professeur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+59	expected	30	30	écrit	long_vp_coord	le professeur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+60	unexpected	30	30	écrit	long_vp_coord	le professeur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+61	expected	31	31	connaît	long_vp_coord	le client connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+62	unexpected	31	31	connaît	long_vp_coord	le client connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+63	expected	32	32	aime	long_vp_coord	le client connaît beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+64	unexpected	32	32	aime	long_vp_coord	le client connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+65	expected	33	33	a	long_vp_coord	le client connaît beaucoup de langues étrangères et a vingt trois ans	8
+66	unexpected	33	33	a	long_vp_coord	le client connaît beaucoup de langues étrangères et ont vingt trois ans	8
+67	expected	34	34	préfère	long_vp_coord	le client connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+68	unexpected	34	34	préfère	long_vp_coord	le client connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+69	expected	35	35	écrit	long_vp_coord	le client connaît beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+70	unexpected	35	35	écrit	long_vp_coord	le client connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+71	expected	36	36	connaît	long_vp_coord	l' officier connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+72	unexpected	36	36	connaît	long_vp_coord	l' officier connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+73	expected	37	37	aime	long_vp_coord	l' officier connaît beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+74	unexpected	37	37	aime	long_vp_coord	l' officier connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+75	expected	38	38	a	long_vp_coord	l' officier connaît beaucoup de langues étrangères et a vingt trois ans	8
+76	unexpected	38	38	a	long_vp_coord	l' officier connaît beaucoup de langues étrangères et ont vingt trois ans	8
+77	expected	39	39	préfère	long_vp_coord	l' officier connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+78	unexpected	39	39	préfère	long_vp_coord	l' officier connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+79	expected	40	40	écrit	long_vp_coord	l' officier connaît beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+80	unexpected	40	40	écrit	long_vp_coord	l' officier connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+81	expected	41	41	connaît	long_vp_coord	le pilote connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+82	unexpected	41	41	connaît	long_vp_coord	le pilote connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+83	expected	42	42	aime	long_vp_coord	le pilote connaît beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+84	unexpected	42	42	aime	long_vp_coord	le pilote connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+85	expected	43	43	a	long_vp_coord	le pilote connaît beaucoup de langues étrangères et a vingt trois ans	8
+86	unexpected	43	43	a	long_vp_coord	le pilote connaît beaucoup de langues étrangères et ont vingt trois ans	8
+87	expected	44	44	préfère	long_vp_coord	le pilote connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+88	unexpected	44	44	préfère	long_vp_coord	le pilote connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+89	expected	45	45	écrit	long_vp_coord	le pilote connaît beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+90	unexpected	45	45	écrit	long_vp_coord	le pilote connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+91	expected	46	46	connaît	long_vp_coord	le consultant connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+92	unexpected	46	46	connaît	long_vp_coord	le consultant connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+93	expected	47	47	aime	long_vp_coord	le consultant connaît beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+94	unexpected	47	47	aime	long_vp_coord	le consultant connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+95	expected	48	48	a	long_vp_coord	le consultant connaît beaucoup de langues étrangères et a vingt trois ans	8
+96	unexpected	48	48	a	long_vp_coord	le consultant connaît beaucoup de langues étrangères et ont vingt trois ans	8
+97	expected	49	49	préfère	long_vp_coord	le consultant connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+98	unexpected	49	49	préfère	long_vp_coord	le consultant connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+99	expected	50	50	écrit	long_vp_coord	le consultant connaît beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+100	unexpected	50	50	écrit	long_vp_coord	le consultant connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+101	expected	51	51	connaît	long_vp_coord	l' auteur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+102	unexpected	51	51	connaît	long_vp_coord	l' auteur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+103	expected	52	52	aime	long_vp_coord	l' auteur aime regarder des émissions de télévision et aime regarder des émissions de télévision	9
+104	unexpected	52	52	aime	long_vp_coord	l' auteur aime regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+105	expected	53	53	a	long_vp_coord	l' auteur aime regarder des émissions de télévision et a vingt trois ans	9
+106	unexpected	53	53	a	long_vp_coord	l' auteur aime regarder des émissions de télévision et ont vingt trois ans	9
+107	expected	54	54	préfère	long_vp_coord	l' auteur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+108	unexpected	54	54	préfère	long_vp_coord	l' auteur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+109	expected	55	55	écrit	long_vp_coord	l' auteur aime regarder des émissions de télévision et écrit dans un journal tous les jours	9
+110	unexpected	55	55	écrit	long_vp_coord	l' auteur aime regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+111	expected	56	56	connaît	long_vp_coord	le directeur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+112	unexpected	56	56	connaît	long_vp_coord	le directeur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+113	expected	57	57	aime	long_vp_coord	le directeur aime regarder des émissions de télévision et aime regarder des émissions de télévision	9
+114	unexpected	57	57	aime	long_vp_coord	le directeur aime regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+115	expected	58	58	a	long_vp_coord	le directeur aime regarder des émissions de télévision et a vingt trois ans	9
+116	unexpected	58	58	a	long_vp_coord	le directeur aime regarder des émissions de télévision et ont vingt trois ans	9
+117	expected	59	59	préfère	long_vp_coord	le directeur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+118	unexpected	59	59	préfère	long_vp_coord	le directeur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+119	expected	60	60	écrit	long_vp_coord	le directeur aime regarder des émissions de télévision et écrit dans un journal tous les jours	9
+120	unexpected	60	60	écrit	long_vp_coord	le directeur aime regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+121	expected	61	61	connaît	long_vp_coord	l' agriculteur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+122	unexpected	61	61	connaît	long_vp_coord	l' agriculteur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+123	expected	62	62	aime	long_vp_coord	l' agriculteur aime regarder des émissions de télévision et aime regarder des émissions de télévision	9
+124	unexpected	62	62	aime	long_vp_coord	l' agriculteur aime regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+125	expected	63	63	a	long_vp_coord	l' agriculteur aime regarder des émissions de télévision et a vingt trois ans	9
+126	unexpected	63	63	a	long_vp_coord	l' agriculteur aime regarder des émissions de télévision et ont vingt trois ans	9
+127	expected	64	64	préfère	long_vp_coord	l' agriculteur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+128	unexpected	64	64	préfère	long_vp_coord	l' agriculteur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+129	expected	65	65	écrit	long_vp_coord	l' agriculteur aime regarder des émissions de télévision et écrit dans un journal tous les jours	9
+130	unexpected	65	65	écrit	long_vp_coord	l' agriculteur aime regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+131	expected	66	66	connaît	long_vp_coord	le chirurgien aime regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+132	unexpected	66	66	connaît	long_vp_coord	le chirurgien aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+133	expected	67	67	aime	long_vp_coord	le chirurgien aime regarder des émissions de télévision et aime regarder des émissions de télévision	9
+134	unexpected	67	67	aime	long_vp_coord	le chirurgien aime regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+135	expected	68	68	a	long_vp_coord	le chirurgien aime regarder des émissions de télévision et a vingt trois ans	9
+136	unexpected	68	68	a	long_vp_coord	le chirurgien aime regarder des émissions de télévision et ont vingt trois ans	9
+137	expected	69	69	préfère	long_vp_coord	le chirurgien aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+138	unexpected	69	69	préfère	long_vp_coord	le chirurgien aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+139	expected	70	70	écrit	long_vp_coord	le chirurgien aime regarder des émissions de télévision et écrit dans un journal tous les jours	9
+140	unexpected	70	70	écrit	long_vp_coord	le chirurgien aime regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+141	expected	71	71	connaît	long_vp_coord	le sénateur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+142	unexpected	71	71	connaît	long_vp_coord	le sénateur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+143	expected	72	72	aime	long_vp_coord	le sénateur aime regarder des émissions de télévision et aime regarder des émissions de télévision	9
+144	unexpected	72	72	aime	long_vp_coord	le sénateur aime regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+145	expected	73	73	a	long_vp_coord	le sénateur aime regarder des émissions de télévision et a vingt trois ans	9
+146	unexpected	73	73	a	long_vp_coord	le sénateur aime regarder des émissions de télévision et ont vingt trois ans	9
+147	expected	74	74	préfère	long_vp_coord	le sénateur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+148	unexpected	74	74	préfère	long_vp_coord	le sénateur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+149	expected	75	75	écrit	long_vp_coord	le sénateur aime regarder des émissions de télévision et écrit dans un journal tous les jours	9
+150	unexpected	75	75	écrit	long_vp_coord	le sénateur aime regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+151	expected	76	76	connaît	long_vp_coord	le professeur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+152	unexpected	76	76	connaît	long_vp_coord	le professeur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+153	expected	77	77	aime	long_vp_coord	le professeur aime regarder des émissions de télévision et aime regarder des émissions de télévision	9
+154	unexpected	77	77	aime	long_vp_coord	le professeur aime regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+155	expected	78	78	a	long_vp_coord	le professeur aime regarder des émissions de télévision et a vingt trois ans	9
+156	unexpected	78	78	a	long_vp_coord	le professeur aime regarder des émissions de télévision et ont vingt trois ans	9
+157	expected	79	79	préfère	long_vp_coord	le professeur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+158	unexpected	79	79	préfère	long_vp_coord	le professeur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+159	expected	80	80	écrit	long_vp_coord	le professeur aime regarder des émissions de télévision et écrit dans un journal tous les jours	9
+160	unexpected	80	80	écrit	long_vp_coord	le professeur aime regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+161	expected	81	81	connaît	long_vp_coord	le client aime regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+162	unexpected	81	81	connaît	long_vp_coord	le client aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+163	expected	82	82	aime	long_vp_coord	le client aime regarder des émissions de télévision et aime regarder des émissions de télévision	9
+164	unexpected	82	82	aime	long_vp_coord	le client aime regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+165	expected	83	83	a	long_vp_coord	le client aime regarder des émissions de télévision et a vingt trois ans	9
+166	unexpected	83	83	a	long_vp_coord	le client aime regarder des émissions de télévision et ont vingt trois ans	9
+167	expected	84	84	préfère	long_vp_coord	le client aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+168	unexpected	84	84	préfère	long_vp_coord	le client aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+169	expected	85	85	écrit	long_vp_coord	le client aime regarder des émissions de télévision et écrit dans un journal tous les jours	9
+170	unexpected	85	85	écrit	long_vp_coord	le client aime regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+171	expected	86	86	connaît	long_vp_coord	l' officier aime regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+172	unexpected	86	86	connaît	long_vp_coord	l' officier aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+173	expected	87	87	aime	long_vp_coord	l' officier aime regarder des émissions de télévision et aime regarder des émissions de télévision	9
+174	unexpected	87	87	aime	long_vp_coord	l' officier aime regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+175	expected	88	88	a	long_vp_coord	l' officier aime regarder des émissions de télévision et a vingt trois ans	9
+176	unexpected	88	88	a	long_vp_coord	l' officier aime regarder des émissions de télévision et ont vingt trois ans	9
+177	expected	89	89	préfère	long_vp_coord	l' officier aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+178	unexpected	89	89	préfère	long_vp_coord	l' officier aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+179	expected	90	90	écrit	long_vp_coord	l' officier aime regarder des émissions de télévision et écrit dans un journal tous les jours	9
+180	unexpected	90	90	écrit	long_vp_coord	l' officier aime regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+181	expected	91	91	connaît	long_vp_coord	le pilote aime regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+182	unexpected	91	91	connaît	long_vp_coord	le pilote aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+183	expected	92	92	aime	long_vp_coord	le pilote aime regarder des émissions de télévision et aime regarder des émissions de télévision	9
+184	unexpected	92	92	aime	long_vp_coord	le pilote aime regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+185	expected	93	93	a	long_vp_coord	le pilote aime regarder des émissions de télévision et a vingt trois ans	9
+186	unexpected	93	93	a	long_vp_coord	le pilote aime regarder des émissions de télévision et ont vingt trois ans	9
+187	expected	94	94	préfère	long_vp_coord	le pilote aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+188	unexpected	94	94	préfère	long_vp_coord	le pilote aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+189	expected	95	95	écrit	long_vp_coord	le pilote aime regarder des émissions de télévision et écrit dans un journal tous les jours	9
+190	unexpected	95	95	écrit	long_vp_coord	le pilote aime regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+191	expected	96	96	connaît	long_vp_coord	le consultant aime regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+192	unexpected	96	96	connaît	long_vp_coord	le consultant aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+193	expected	97	97	aime	long_vp_coord	le consultant aime regarder des émissions de télévision et aime regarder des émissions de télévision	9
+194	unexpected	97	97	aime	long_vp_coord	le consultant aime regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+195	expected	98	98	a	long_vp_coord	le consultant aime regarder des émissions de télévision et a vingt trois ans	9
+196	unexpected	98	98	a	long_vp_coord	le consultant aime regarder des émissions de télévision et ont vingt trois ans	9
+197	expected	99	99	préfère	long_vp_coord	le consultant aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+198	unexpected	99	99	préfère	long_vp_coord	le consultant aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+199	expected	100	100	écrit	long_vp_coord	le consultant aime regarder des émissions de télévision et écrit dans un journal tous les jours	9
+200	unexpected	100	100	écrit	long_vp_coord	le consultant aime regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+201	expected	101	101	connaît	long_vp_coord	l' auteur a vingt trois ans et connaît beaucoup de langues étrangères	7
+202	unexpected	101	101	connaît	long_vp_coord	l' auteur a vingt trois ans et connaissent beaucoup de langues étrangères	7
+203	expected	102	102	aime	long_vp_coord	l' auteur a vingt trois ans et aime regarder des émissions de télévision	7
+204	unexpected	102	102	aime	long_vp_coord	l' auteur a vingt trois ans et aiment regarder des émissions de télévision	7
+205	expected	103	103	a	long_vp_coord	l' auteur a vingt trois ans et a vingt trois ans	7
+206	unexpected	103	103	a	long_vp_coord	l' auteur a vingt trois ans et ont vingt trois ans	7
+207	expected	104	104	préfère	long_vp_coord	l' auteur a vingt trois ans et préfère jouer au tennis avec des collègues	7
+208	unexpected	104	104	préfère	long_vp_coord	l' auteur a vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+209	expected	105	105	écrit	long_vp_coord	l' auteur a vingt trois ans et écrit dans un journal tous les jours	7
+210	unexpected	105	105	écrit	long_vp_coord	l' auteur a vingt trois ans et écrivent dans un journal tous les jours	7
+211	expected	106	106	connaît	long_vp_coord	le directeur a vingt trois ans et connaît beaucoup de langues étrangères	7
+212	unexpected	106	106	connaît	long_vp_coord	le directeur a vingt trois ans et connaissent beaucoup de langues étrangères	7
+213	expected	107	107	aime	long_vp_coord	le directeur a vingt trois ans et aime regarder des émissions de télévision	7
+214	unexpected	107	107	aime	long_vp_coord	le directeur a vingt trois ans et aiment regarder des émissions de télévision	7
+215	expected	108	108	a	long_vp_coord	le directeur a vingt trois ans et a vingt trois ans	7
+216	unexpected	108	108	a	long_vp_coord	le directeur a vingt trois ans et ont vingt trois ans	7
+217	expected	109	109	préfère	long_vp_coord	le directeur a vingt trois ans et préfère jouer au tennis avec des collègues	7
+218	unexpected	109	109	préfère	long_vp_coord	le directeur a vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+219	expected	110	110	écrit	long_vp_coord	le directeur a vingt trois ans et écrit dans un journal tous les jours	7
+220	unexpected	110	110	écrit	long_vp_coord	le directeur a vingt trois ans et écrivent dans un journal tous les jours	7
+221	expected	111	111	connaît	long_vp_coord	l' agriculteur a vingt trois ans et connaît beaucoup de langues étrangères	7
+222	unexpected	111	111	connaît	long_vp_coord	l' agriculteur a vingt trois ans et connaissent beaucoup de langues étrangères	7
+223	expected	112	112	aime	long_vp_coord	l' agriculteur a vingt trois ans et aime regarder des émissions de télévision	7
+224	unexpected	112	112	aime	long_vp_coord	l' agriculteur a vingt trois ans et aiment regarder des émissions de télévision	7
+225	expected	113	113	a	long_vp_coord	l' agriculteur a vingt trois ans et a vingt trois ans	7
+226	unexpected	113	113	a	long_vp_coord	l' agriculteur a vingt trois ans et ont vingt trois ans	7
+227	expected	114	114	préfère	long_vp_coord	l' agriculteur a vingt trois ans et préfère jouer au tennis avec des collègues	7
+228	unexpected	114	114	préfère	long_vp_coord	l' agriculteur a vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+229	expected	115	115	écrit	long_vp_coord	l' agriculteur a vingt trois ans et écrit dans un journal tous les jours	7
+230	unexpected	115	115	écrit	long_vp_coord	l' agriculteur a vingt trois ans et écrivent dans un journal tous les jours	7
+231	expected	116	116	connaît	long_vp_coord	le chirurgien a vingt trois ans et connaît beaucoup de langues étrangères	7
+232	unexpected	116	116	connaît	long_vp_coord	le chirurgien a vingt trois ans et connaissent beaucoup de langues étrangères	7
+233	expected	117	117	aime	long_vp_coord	le chirurgien a vingt trois ans et aime regarder des émissions de télévision	7
+234	unexpected	117	117	aime	long_vp_coord	le chirurgien a vingt trois ans et aiment regarder des émissions de télévision	7
+235	expected	118	118	a	long_vp_coord	le chirurgien a vingt trois ans et a vingt trois ans	7
+236	unexpected	118	118	a	long_vp_coord	le chirurgien a vingt trois ans et ont vingt trois ans	7
+237	expected	119	119	préfère	long_vp_coord	le chirurgien a vingt trois ans et préfère jouer au tennis avec des collègues	7
+238	unexpected	119	119	préfère	long_vp_coord	le chirurgien a vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+239	expected	120	120	écrit	long_vp_coord	le chirurgien a vingt trois ans et écrit dans un journal tous les jours	7
+240	unexpected	120	120	écrit	long_vp_coord	le chirurgien a vingt trois ans et écrivent dans un journal tous les jours	7
+241	expected	121	121	connaît	long_vp_coord	le sénateur a vingt trois ans et connaît beaucoup de langues étrangères	7
+242	unexpected	121	121	connaît	long_vp_coord	le sénateur a vingt trois ans et connaissent beaucoup de langues étrangères	7
+243	expected	122	122	aime	long_vp_coord	le sénateur a vingt trois ans et aime regarder des émissions de télévision	7
+244	unexpected	122	122	aime	long_vp_coord	le sénateur a vingt trois ans et aiment regarder des émissions de télévision	7
+245	expected	123	123	a	long_vp_coord	le sénateur a vingt trois ans et a vingt trois ans	7
+246	unexpected	123	123	a	long_vp_coord	le sénateur a vingt trois ans et ont vingt trois ans	7
+247	expected	124	124	préfère	long_vp_coord	le sénateur a vingt trois ans et préfère jouer au tennis avec des collègues	7
+248	unexpected	124	124	préfère	long_vp_coord	le sénateur a vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+249	expected	125	125	écrit	long_vp_coord	le sénateur a vingt trois ans et écrit dans un journal tous les jours	7
+250	unexpected	125	125	écrit	long_vp_coord	le sénateur a vingt trois ans et écrivent dans un journal tous les jours	7
+251	expected	126	126	connaît	long_vp_coord	le professeur a vingt trois ans et connaît beaucoup de langues étrangères	7
+252	unexpected	126	126	connaît	long_vp_coord	le professeur a vingt trois ans et connaissent beaucoup de langues étrangères	7
+253	expected	127	127	aime	long_vp_coord	le professeur a vingt trois ans et aime regarder des émissions de télévision	7
+254	unexpected	127	127	aime	long_vp_coord	le professeur a vingt trois ans et aiment regarder des émissions de télévision	7
+255	expected	128	128	a	long_vp_coord	le professeur a vingt trois ans et a vingt trois ans	7
+256	unexpected	128	128	a	long_vp_coord	le professeur a vingt trois ans et ont vingt trois ans	7
+257	expected	129	129	préfère	long_vp_coord	le professeur a vingt trois ans et préfère jouer au tennis avec des collègues	7
+258	unexpected	129	129	préfère	long_vp_coord	le professeur a vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+259	expected	130	130	écrit	long_vp_coord	le professeur a vingt trois ans et écrit dans un journal tous les jours	7
+260	unexpected	130	130	écrit	long_vp_coord	le professeur a vingt trois ans et écrivent dans un journal tous les jours	7
+261	expected	131	131	connaît	long_vp_coord	le client a vingt trois ans et connaît beaucoup de langues étrangères	7
+262	unexpected	131	131	connaît	long_vp_coord	le client a vingt trois ans et connaissent beaucoup de langues étrangères	7
+263	expected	132	132	aime	long_vp_coord	le client a vingt trois ans et aime regarder des émissions de télévision	7
+264	unexpected	132	132	aime	long_vp_coord	le client a vingt trois ans et aiment regarder des émissions de télévision	7
+265	expected	133	133	a	long_vp_coord	le client a vingt trois ans et a vingt trois ans	7
+266	unexpected	133	133	a	long_vp_coord	le client a vingt trois ans et ont vingt trois ans	7
+267	expected	134	134	préfère	long_vp_coord	le client a vingt trois ans et préfère jouer au tennis avec des collègues	7
+268	unexpected	134	134	préfère	long_vp_coord	le client a vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+269	expected	135	135	écrit	long_vp_coord	le client a vingt trois ans et écrit dans un journal tous les jours	7
+270	unexpected	135	135	écrit	long_vp_coord	le client a vingt trois ans et écrivent dans un journal tous les jours	7
+271	expected	136	136	connaît	long_vp_coord	l' officier a vingt trois ans et connaît beaucoup de langues étrangères	7
+272	unexpected	136	136	connaît	long_vp_coord	l' officier a vingt trois ans et connaissent beaucoup de langues étrangères	7
+273	expected	137	137	aime	long_vp_coord	l' officier a vingt trois ans et aime regarder des émissions de télévision	7
+274	unexpected	137	137	aime	long_vp_coord	l' officier a vingt trois ans et aiment regarder des émissions de télévision	7
+275	expected	138	138	a	long_vp_coord	l' officier a vingt trois ans et a vingt trois ans	7
+276	unexpected	138	138	a	long_vp_coord	l' officier a vingt trois ans et ont vingt trois ans	7
+277	expected	139	139	préfère	long_vp_coord	l' officier a vingt trois ans et préfère jouer au tennis avec des collègues	7
+278	unexpected	139	139	préfère	long_vp_coord	l' officier a vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+279	expected	140	140	écrit	long_vp_coord	l' officier a vingt trois ans et écrit dans un journal tous les jours	7
+280	unexpected	140	140	écrit	long_vp_coord	l' officier a vingt trois ans et écrivent dans un journal tous les jours	7
+281	expected	141	141	connaît	long_vp_coord	le pilote a vingt trois ans et connaît beaucoup de langues étrangères	7
+282	unexpected	141	141	connaît	long_vp_coord	le pilote a vingt trois ans et connaissent beaucoup de langues étrangères	7
+283	expected	142	142	aime	long_vp_coord	le pilote a vingt trois ans et aime regarder des émissions de télévision	7
+284	unexpected	142	142	aime	long_vp_coord	le pilote a vingt trois ans et aiment regarder des émissions de télévision	7
+285	expected	143	143	a	long_vp_coord	le pilote a vingt trois ans et a vingt trois ans	7
+286	unexpected	143	143	a	long_vp_coord	le pilote a vingt trois ans et ont vingt trois ans	7
+287	expected	144	144	préfère	long_vp_coord	le pilote a vingt trois ans et préfère jouer au tennis avec des collègues	7
+288	unexpected	144	144	préfère	long_vp_coord	le pilote a vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+289	expected	145	145	écrit	long_vp_coord	le pilote a vingt trois ans et écrit dans un journal tous les jours	7
+290	unexpected	145	145	écrit	long_vp_coord	le pilote a vingt trois ans et écrivent dans un journal tous les jours	7
+291	expected	146	146	connaît	long_vp_coord	le consultant a vingt trois ans et connaît beaucoup de langues étrangères	7
+292	unexpected	146	146	connaît	long_vp_coord	le consultant a vingt trois ans et connaissent beaucoup de langues étrangères	7
+293	expected	147	147	aime	long_vp_coord	le consultant a vingt trois ans et aime regarder des émissions de télévision	7
+294	unexpected	147	147	aime	long_vp_coord	le consultant a vingt trois ans et aiment regarder des émissions de télévision	7
+295	expected	148	148	a	long_vp_coord	le consultant a vingt trois ans et a vingt trois ans	7
+296	unexpected	148	148	a	long_vp_coord	le consultant a vingt trois ans et ont vingt trois ans	7
+297	expected	149	149	préfère	long_vp_coord	le consultant a vingt trois ans et préfère jouer au tennis avec des collègues	7
+298	unexpected	149	149	préfère	long_vp_coord	le consultant a vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+299	expected	150	150	écrit	long_vp_coord	le consultant a vingt trois ans et écrit dans un journal tous les jours	7
+300	unexpected	150	150	écrit	long_vp_coord	le consultant a vingt trois ans et écrivent dans un journal tous les jours	7
+301	expected	151	151	connaît	long_vp_coord	l' auteur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+302	unexpected	151	151	connaît	long_vp_coord	l' auteur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+303	expected	152	152	aime	long_vp_coord	l' auteur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+304	unexpected	152	152	aime	long_vp_coord	l' auteur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+305	expected	153	153	a	long_vp_coord	l' auteur préfère jouer au tennis avec des collègues et a vingt trois ans	10
+306	unexpected	153	153	a	long_vp_coord	l' auteur préfère jouer au tennis avec des collègues et ont vingt trois ans	10
+307	expected	154	154	préfère	long_vp_coord	l' auteur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+308	unexpected	154	154	préfère	long_vp_coord	l' auteur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+309	expected	155	155	écrit	long_vp_coord	l' auteur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+310	unexpected	155	155	écrit	long_vp_coord	l' auteur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+311	expected	156	156	connaît	long_vp_coord	le directeur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+312	unexpected	156	156	connaît	long_vp_coord	le directeur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+313	expected	157	157	aime	long_vp_coord	le directeur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+314	unexpected	157	157	aime	long_vp_coord	le directeur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+315	expected	158	158	a	long_vp_coord	le directeur préfère jouer au tennis avec des collègues et a vingt trois ans	10
+316	unexpected	158	158	a	long_vp_coord	le directeur préfère jouer au tennis avec des collègues et ont vingt trois ans	10
+317	expected	159	159	préfère	long_vp_coord	le directeur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+318	unexpected	159	159	préfère	long_vp_coord	le directeur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+319	expected	160	160	écrit	long_vp_coord	le directeur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+320	unexpected	160	160	écrit	long_vp_coord	le directeur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+321	expected	161	161	connaît	long_vp_coord	l' agriculteur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+322	unexpected	161	161	connaît	long_vp_coord	l' agriculteur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+323	expected	162	162	aime	long_vp_coord	l' agriculteur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+324	unexpected	162	162	aime	long_vp_coord	l' agriculteur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+325	expected	163	163	a	long_vp_coord	l' agriculteur préfère jouer au tennis avec des collègues et a vingt trois ans	10
+326	unexpected	163	163	a	long_vp_coord	l' agriculteur préfère jouer au tennis avec des collègues et ont vingt trois ans	10
+327	expected	164	164	préfère	long_vp_coord	l' agriculteur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+328	unexpected	164	164	préfère	long_vp_coord	l' agriculteur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+329	expected	165	165	écrit	long_vp_coord	l' agriculteur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+330	unexpected	165	165	écrit	long_vp_coord	l' agriculteur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+331	expected	166	166	connaît	long_vp_coord	le chirurgien préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+332	unexpected	166	166	connaît	long_vp_coord	le chirurgien préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+333	expected	167	167	aime	long_vp_coord	le chirurgien préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+334	unexpected	167	167	aime	long_vp_coord	le chirurgien préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+335	expected	168	168	a	long_vp_coord	le chirurgien préfère jouer au tennis avec des collègues et a vingt trois ans	10
+336	unexpected	168	168	a	long_vp_coord	le chirurgien préfère jouer au tennis avec des collègues et ont vingt trois ans	10
+337	expected	169	169	préfère	long_vp_coord	le chirurgien préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+338	unexpected	169	169	préfère	long_vp_coord	le chirurgien préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+339	expected	170	170	écrit	long_vp_coord	le chirurgien préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+340	unexpected	170	170	écrit	long_vp_coord	le chirurgien préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+341	expected	171	171	connaît	long_vp_coord	le sénateur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+342	unexpected	171	171	connaît	long_vp_coord	le sénateur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+343	expected	172	172	aime	long_vp_coord	le sénateur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+344	unexpected	172	172	aime	long_vp_coord	le sénateur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+345	expected	173	173	a	long_vp_coord	le sénateur préfère jouer au tennis avec des collègues et a vingt trois ans	10
+346	unexpected	173	173	a	long_vp_coord	le sénateur préfère jouer au tennis avec des collègues et ont vingt trois ans	10
+347	expected	174	174	préfère	long_vp_coord	le sénateur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+348	unexpected	174	174	préfère	long_vp_coord	le sénateur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+349	expected	175	175	écrit	long_vp_coord	le sénateur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+350	unexpected	175	175	écrit	long_vp_coord	le sénateur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+351	expected	176	176	connaît	long_vp_coord	le professeur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+352	unexpected	176	176	connaît	long_vp_coord	le professeur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+353	expected	177	177	aime	long_vp_coord	le professeur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+354	unexpected	177	177	aime	long_vp_coord	le professeur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+355	expected	178	178	a	long_vp_coord	le professeur préfère jouer au tennis avec des collègues et a vingt trois ans	10
+356	unexpected	178	178	a	long_vp_coord	le professeur préfère jouer au tennis avec des collègues et ont vingt trois ans	10
+357	expected	179	179	préfère	long_vp_coord	le professeur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+358	unexpected	179	179	préfère	long_vp_coord	le professeur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+359	expected	180	180	écrit	long_vp_coord	le professeur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+360	unexpected	180	180	écrit	long_vp_coord	le professeur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+361	expected	181	181	connaît	long_vp_coord	le client préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+362	unexpected	181	181	connaît	long_vp_coord	le client préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+363	expected	182	182	aime	long_vp_coord	le client préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+364	unexpected	182	182	aime	long_vp_coord	le client préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+365	expected	183	183	a	long_vp_coord	le client préfère jouer au tennis avec des collègues et a vingt trois ans	10
+366	unexpected	183	183	a	long_vp_coord	le client préfère jouer au tennis avec des collègues et ont vingt trois ans	10
+367	expected	184	184	préfère	long_vp_coord	le client préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+368	unexpected	184	184	préfère	long_vp_coord	le client préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+369	expected	185	185	écrit	long_vp_coord	le client préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+370	unexpected	185	185	écrit	long_vp_coord	le client préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+371	expected	186	186	connaît	long_vp_coord	l' officier préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+372	unexpected	186	186	connaît	long_vp_coord	l' officier préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+373	expected	187	187	aime	long_vp_coord	l' officier préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+374	unexpected	187	187	aime	long_vp_coord	l' officier préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+375	expected	188	188	a	long_vp_coord	l' officier préfère jouer au tennis avec des collègues et a vingt trois ans	10
+376	unexpected	188	188	a	long_vp_coord	l' officier préfère jouer au tennis avec des collègues et ont vingt trois ans	10
+377	expected	189	189	préfère	long_vp_coord	l' officier préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+378	unexpected	189	189	préfère	long_vp_coord	l' officier préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+379	expected	190	190	écrit	long_vp_coord	l' officier préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+380	unexpected	190	190	écrit	long_vp_coord	l' officier préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+381	expected	191	191	connaît	long_vp_coord	le pilote préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+382	unexpected	191	191	connaît	long_vp_coord	le pilote préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+383	expected	192	192	aime	long_vp_coord	le pilote préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+384	unexpected	192	192	aime	long_vp_coord	le pilote préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+385	expected	193	193	a	long_vp_coord	le pilote préfère jouer au tennis avec des collègues et a vingt trois ans	10
+386	unexpected	193	193	a	long_vp_coord	le pilote préfère jouer au tennis avec des collègues et ont vingt trois ans	10
+387	expected	194	194	préfère	long_vp_coord	le pilote préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+388	unexpected	194	194	préfère	long_vp_coord	le pilote préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+389	expected	195	195	écrit	long_vp_coord	le pilote préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+390	unexpected	195	195	écrit	long_vp_coord	le pilote préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+391	expected	196	196	connaît	long_vp_coord	le consultant préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+392	unexpected	196	196	connaît	long_vp_coord	le consultant préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+393	expected	197	197	aime	long_vp_coord	le consultant préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+394	unexpected	197	197	aime	long_vp_coord	le consultant préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+395	expected	198	198	a	long_vp_coord	le consultant préfère jouer au tennis avec des collègues et a vingt trois ans	10
+396	unexpected	198	198	a	long_vp_coord	le consultant préfère jouer au tennis avec des collègues et ont vingt trois ans	10
+397	expected	199	199	préfère	long_vp_coord	le consultant préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+398	unexpected	199	199	préfère	long_vp_coord	le consultant préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+399	expected	200	200	écrit	long_vp_coord	le consultant préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+400	unexpected	200	200	écrit	long_vp_coord	le consultant préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+401	expected	201	201	connaît	long_vp_coord	l' auteur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+402	unexpected	201	201	connaît	long_vp_coord	l' auteur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+403	expected	202	202	aime	long_vp_coord	l' auteur écrit dans un journal tous les jours et aime regarder des émissions de télévision	10
+404	unexpected	202	202	aime	long_vp_coord	l' auteur écrit dans un journal tous les jours et aiment regarder des émissions de télévision	10
+405	expected	203	203	a	long_vp_coord	l' auteur écrit dans un journal tous les jours et a vingt trois ans	10
+406	unexpected	203	203	a	long_vp_coord	l' auteur écrit dans un journal tous les jours et ont vingt trois ans	10
+407	expected	204	204	préfère	long_vp_coord	l' auteur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+408	unexpected	204	204	préfère	long_vp_coord	l' auteur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+409	expected	205	205	écrit	long_vp_coord	l' auteur écrit dans un journal tous les jours et écrit dans un journal tous les jours	10
+410	unexpected	205	205	écrit	long_vp_coord	l' auteur écrit dans un journal tous les jours et écrivent dans un journal tous les jours	10
+411	expected	206	206	connaît	long_vp_coord	le directeur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+412	unexpected	206	206	connaît	long_vp_coord	le directeur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+413	expected	207	207	aime	long_vp_coord	le directeur écrit dans un journal tous les jours et aime regarder des émissions de télévision	10
+414	unexpected	207	207	aime	long_vp_coord	le directeur écrit dans un journal tous les jours et aiment regarder des émissions de télévision	10
+415	expected	208	208	a	long_vp_coord	le directeur écrit dans un journal tous les jours et a vingt trois ans	10
+416	unexpected	208	208	a	long_vp_coord	le directeur écrit dans un journal tous les jours et ont vingt trois ans	10
+417	expected	209	209	préfère	long_vp_coord	le directeur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+418	unexpected	209	209	préfère	long_vp_coord	le directeur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+419	expected	210	210	écrit	long_vp_coord	le directeur écrit dans un journal tous les jours et écrit dans un journal tous les jours	10
+420	unexpected	210	210	écrit	long_vp_coord	le directeur écrit dans un journal tous les jours et écrivent dans un journal tous les jours	10
+421	expected	211	211	connaît	long_vp_coord	l' agriculteur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+422	unexpected	211	211	connaît	long_vp_coord	l' agriculteur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+423	expected	212	212	aime	long_vp_coord	l' agriculteur écrit dans un journal tous les jours et aime regarder des émissions de télévision	10
+424	unexpected	212	212	aime	long_vp_coord	l' agriculteur écrit dans un journal tous les jours et aiment regarder des émissions de télévision	10
+425	expected	213	213	a	long_vp_coord	l' agriculteur écrit dans un journal tous les jours et a vingt trois ans	10
+426	unexpected	213	213	a	long_vp_coord	l' agriculteur écrit dans un journal tous les jours et ont vingt trois ans	10
+427	expected	214	214	préfère	long_vp_coord	l' agriculteur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+428	unexpected	214	214	préfère	long_vp_coord	l' agriculteur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+429	expected	215	215	écrit	long_vp_coord	l' agriculteur écrit dans un journal tous les jours et écrit dans un journal tous les jours	10
+430	unexpected	215	215	écrit	long_vp_coord	l' agriculteur écrit dans un journal tous les jours et écrivent dans un journal tous les jours	10
+431	expected	216	216	connaît	long_vp_coord	le chirurgien écrit dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+432	unexpected	216	216	connaît	long_vp_coord	le chirurgien écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+433	expected	217	217	aime	long_vp_coord	le chirurgien écrit dans un journal tous les jours et aime regarder des émissions de télévision	10
+434	unexpected	217	217	aime	long_vp_coord	le chirurgien écrit dans un journal tous les jours et aiment regarder des émissions de télévision	10
+435	expected	218	218	a	long_vp_coord	le chirurgien écrit dans un journal tous les jours et a vingt trois ans	10
+436	unexpected	218	218	a	long_vp_coord	le chirurgien écrit dans un journal tous les jours et ont vingt trois ans	10
+437	expected	219	219	préfère	long_vp_coord	le chirurgien écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+438	unexpected	219	219	préfère	long_vp_coord	le chirurgien écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+439	expected	220	220	écrit	long_vp_coord	le chirurgien écrit dans un journal tous les jours et écrit dans un journal tous les jours	10
+440	unexpected	220	220	écrit	long_vp_coord	le chirurgien écrit dans un journal tous les jours et écrivent dans un journal tous les jours	10
+441	expected	221	221	connaît	long_vp_coord	le sénateur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+442	unexpected	221	221	connaît	long_vp_coord	le sénateur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+443	expected	222	222	aime	long_vp_coord	le sénateur écrit dans un journal tous les jours et aime regarder des émissions de télévision	10
+444	unexpected	222	222	aime	long_vp_coord	le sénateur écrit dans un journal tous les jours et aiment regarder des émissions de télévision	10
+445	expected	223	223	a	long_vp_coord	le sénateur écrit dans un journal tous les jours et a vingt trois ans	10
+446	unexpected	223	223	a	long_vp_coord	le sénateur écrit dans un journal tous les jours et ont vingt trois ans	10
+447	expected	224	224	préfère	long_vp_coord	le sénateur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+448	unexpected	224	224	préfère	long_vp_coord	le sénateur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+449	expected	225	225	écrit	long_vp_coord	le sénateur écrit dans un journal tous les jours et écrit dans un journal tous les jours	10
+450	unexpected	225	225	écrit	long_vp_coord	le sénateur écrit dans un journal tous les jours et écrivent dans un journal tous les jours	10
+451	expected	226	226	connaît	long_vp_coord	le professeur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+452	unexpected	226	226	connaît	long_vp_coord	le professeur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+453	expected	227	227	aime	long_vp_coord	le professeur écrit dans un journal tous les jours et aime regarder des émissions de télévision	10
+454	unexpected	227	227	aime	long_vp_coord	le professeur écrit dans un journal tous les jours et aiment regarder des émissions de télévision	10
+455	expected	228	228	a	long_vp_coord	le professeur écrit dans un journal tous les jours et a vingt trois ans	10
+456	unexpected	228	228	a	long_vp_coord	le professeur écrit dans un journal tous les jours et ont vingt trois ans	10
+457	expected	229	229	préfère	long_vp_coord	le professeur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+458	unexpected	229	229	préfère	long_vp_coord	le professeur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+459	expected	230	230	écrit	long_vp_coord	le professeur écrit dans un journal tous les jours et écrit dans un journal tous les jours	10
+460	unexpected	230	230	écrit	long_vp_coord	le professeur écrit dans un journal tous les jours et écrivent dans un journal tous les jours	10
+461	expected	231	231	connaît	long_vp_coord	le client écrit dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+462	unexpected	231	231	connaît	long_vp_coord	le client écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+463	expected	232	232	aime	long_vp_coord	le client écrit dans un journal tous les jours et aime regarder des émissions de télévision	10
+464	unexpected	232	232	aime	long_vp_coord	le client écrit dans un journal tous les jours et aiment regarder des émissions de télévision	10
+465	expected	233	233	a	long_vp_coord	le client écrit dans un journal tous les jours et a vingt trois ans	10
+466	unexpected	233	233	a	long_vp_coord	le client écrit dans un journal tous les jours et ont vingt trois ans	10
+467	expected	234	234	préfère	long_vp_coord	le client écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+468	unexpected	234	234	préfère	long_vp_coord	le client écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+469	expected	235	235	écrit	long_vp_coord	le client écrit dans un journal tous les jours et écrit dans un journal tous les jours	10
+470	unexpected	235	235	écrit	long_vp_coord	le client écrit dans un journal tous les jours et écrivent dans un journal tous les jours	10
+471	expected	236	236	connaît	long_vp_coord	l' officier écrit dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+472	unexpected	236	236	connaît	long_vp_coord	l' officier écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+473	expected	237	237	aime	long_vp_coord	l' officier écrit dans un journal tous les jours et aime regarder des émissions de télévision	10
+474	unexpected	237	237	aime	long_vp_coord	l' officier écrit dans un journal tous les jours et aiment regarder des émissions de télévision	10
+475	expected	238	238	a	long_vp_coord	l' officier écrit dans un journal tous les jours et a vingt trois ans	10
+476	unexpected	238	238	a	long_vp_coord	l' officier écrit dans un journal tous les jours et ont vingt trois ans	10
+477	expected	239	239	préfère	long_vp_coord	l' officier écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+478	unexpected	239	239	préfère	long_vp_coord	l' officier écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+479	expected	240	240	écrit	long_vp_coord	l' officier écrit dans un journal tous les jours et écrit dans un journal tous les jours	10
+480	unexpected	240	240	écrit	long_vp_coord	l' officier écrit dans un journal tous les jours et écrivent dans un journal tous les jours	10
+481	expected	241	241	connaît	long_vp_coord	le pilote écrit dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+482	unexpected	241	241	connaît	long_vp_coord	le pilote écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+483	expected	242	242	aime	long_vp_coord	le pilote écrit dans un journal tous les jours et aime regarder des émissions de télévision	10
+484	unexpected	242	242	aime	long_vp_coord	le pilote écrit dans un journal tous les jours et aiment regarder des émissions de télévision	10
+485	expected	243	243	a	long_vp_coord	le pilote écrit dans un journal tous les jours et a vingt trois ans	10
+486	unexpected	243	243	a	long_vp_coord	le pilote écrit dans un journal tous les jours et ont vingt trois ans	10
+487	expected	244	244	préfère	long_vp_coord	le pilote écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+488	unexpected	244	244	préfère	long_vp_coord	le pilote écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+489	expected	245	245	écrit	long_vp_coord	le pilote écrit dans un journal tous les jours et écrit dans un journal tous les jours	10
+490	unexpected	245	245	écrit	long_vp_coord	le pilote écrit dans un journal tous les jours et écrivent dans un journal tous les jours	10
+491	expected	246	246	connaît	long_vp_coord	le consultant écrit dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+492	unexpected	246	246	connaît	long_vp_coord	le consultant écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+493	expected	247	247	aime	long_vp_coord	le consultant écrit dans un journal tous les jours et aime regarder des émissions de télévision	10
+494	unexpected	247	247	aime	long_vp_coord	le consultant écrit dans un journal tous les jours et aiment regarder des émissions de télévision	10
+495	expected	248	248	a	long_vp_coord	le consultant écrit dans un journal tous les jours et a vingt trois ans	10
+496	unexpected	248	248	a	long_vp_coord	le consultant écrit dans un journal tous les jours et ont vingt trois ans	10
+497	expected	249	249	préfère	long_vp_coord	le consultant écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+498	unexpected	249	249	préfère	long_vp_coord	le consultant écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+499	expected	250	250	écrit	long_vp_coord	le consultant écrit dans un journal tous les jours et écrit dans un journal tous les jours	10
+500	unexpected	250	250	écrit	long_vp_coord	le consultant écrit dans un journal tous les jours et écrivent dans un journal tous les jours	10
+501	expected	251	251	connaissent	long_vp_coord	les auteurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+502	unexpected	251	251	connaissent	long_vp_coord	les auteurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+503	expected	252	252	aiment	long_vp_coord	les auteurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+504	unexpected	252	252	aiment	long_vp_coord	les auteurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+505	expected	253	253	ont	long_vp_coord	les auteurs connaissent beaucoup de langues étrangères et ont vingt trois ans	8
+506	unexpected	253	253	ont	long_vp_coord	les auteurs connaissent beaucoup de langues étrangères et a vingt trois ans	8
+507	expected	254	254	préfèrent	long_vp_coord	les auteurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+508	unexpected	254	254	préfèrent	long_vp_coord	les auteurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+509	expected	255	255	écrivent	long_vp_coord	les auteurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+510	unexpected	255	255	écrivent	long_vp_coord	les auteurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+511	expected	256	256	connaissent	long_vp_coord	les directeurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+512	unexpected	256	256	connaissent	long_vp_coord	les directeurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+513	expected	257	257	aiment	long_vp_coord	les directeurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+514	unexpected	257	257	aiment	long_vp_coord	les directeurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+515	expected	258	258	ont	long_vp_coord	les directeurs connaissent beaucoup de langues étrangères et ont vingt trois ans	8
+516	unexpected	258	258	ont	long_vp_coord	les directeurs connaissent beaucoup de langues étrangères et a vingt trois ans	8
+517	expected	259	259	préfèrent	long_vp_coord	les directeurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+518	unexpected	259	259	préfèrent	long_vp_coord	les directeurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+519	expected	260	260	écrivent	long_vp_coord	les directeurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+520	unexpected	260	260	écrivent	long_vp_coord	les directeurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+521	expected	261	261	connaissent	long_vp_coord	les agriculteurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+522	unexpected	261	261	connaissent	long_vp_coord	les agriculteurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+523	expected	262	262	aiment	long_vp_coord	les agriculteurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+524	unexpected	262	262	aiment	long_vp_coord	les agriculteurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+525	expected	263	263	ont	long_vp_coord	les agriculteurs connaissent beaucoup de langues étrangères et ont vingt trois ans	8
+526	unexpected	263	263	ont	long_vp_coord	les agriculteurs connaissent beaucoup de langues étrangères et a vingt trois ans	8
+527	expected	264	264	préfèrent	long_vp_coord	les agriculteurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+528	unexpected	264	264	préfèrent	long_vp_coord	les agriculteurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+529	expected	265	265	écrivent	long_vp_coord	les agriculteurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+530	unexpected	265	265	écrivent	long_vp_coord	les agriculteurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+531	expected	266	266	connaissent	long_vp_coord	les chirurgiens connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+532	unexpected	266	266	connaissent	long_vp_coord	les chirurgiens connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+533	expected	267	267	aiment	long_vp_coord	les chirurgiens connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+534	unexpected	267	267	aiment	long_vp_coord	les chirurgiens connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+535	expected	268	268	ont	long_vp_coord	les chirurgiens connaissent beaucoup de langues étrangères et ont vingt trois ans	8
+536	unexpected	268	268	ont	long_vp_coord	les chirurgiens connaissent beaucoup de langues étrangères et a vingt trois ans	8
+537	expected	269	269	préfèrent	long_vp_coord	les chirurgiens connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+538	unexpected	269	269	préfèrent	long_vp_coord	les chirurgiens connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+539	expected	270	270	écrivent	long_vp_coord	les chirurgiens connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+540	unexpected	270	270	écrivent	long_vp_coord	les chirurgiens connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+541	expected	271	271	connaissent	long_vp_coord	les sénateurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+542	unexpected	271	271	connaissent	long_vp_coord	les sénateurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+543	expected	272	272	aiment	long_vp_coord	les sénateurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+544	unexpected	272	272	aiment	long_vp_coord	les sénateurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+545	expected	273	273	ont	long_vp_coord	les sénateurs connaissent beaucoup de langues étrangères et ont vingt trois ans	8
+546	unexpected	273	273	ont	long_vp_coord	les sénateurs connaissent beaucoup de langues étrangères et a vingt trois ans	8
+547	expected	274	274	préfèrent	long_vp_coord	les sénateurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+548	unexpected	274	274	préfèrent	long_vp_coord	les sénateurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+549	expected	275	275	écrivent	long_vp_coord	les sénateurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+550	unexpected	275	275	écrivent	long_vp_coord	les sénateurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+551	expected	276	276	connaissent	long_vp_coord	les professeurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+552	unexpected	276	276	connaissent	long_vp_coord	les professeurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+553	expected	277	277	aiment	long_vp_coord	les professeurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+554	unexpected	277	277	aiment	long_vp_coord	les professeurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+555	expected	278	278	ont	long_vp_coord	les professeurs connaissent beaucoup de langues étrangères et ont vingt trois ans	8
+556	unexpected	278	278	ont	long_vp_coord	les professeurs connaissent beaucoup de langues étrangères et a vingt trois ans	8
+557	expected	279	279	préfèrent	long_vp_coord	les professeurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+558	unexpected	279	279	préfèrent	long_vp_coord	les professeurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+559	expected	280	280	écrivent	long_vp_coord	les professeurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+560	unexpected	280	280	écrivent	long_vp_coord	les professeurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+561	expected	281	281	connaissent	long_vp_coord	les clients connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+562	unexpected	281	281	connaissent	long_vp_coord	les clients connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+563	expected	282	282	aiment	long_vp_coord	les clients connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+564	unexpected	282	282	aiment	long_vp_coord	les clients connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+565	expected	283	283	ont	long_vp_coord	les clients connaissent beaucoup de langues étrangères et ont vingt trois ans	8
+566	unexpected	283	283	ont	long_vp_coord	les clients connaissent beaucoup de langues étrangères et a vingt trois ans	8
+567	expected	284	284	préfèrent	long_vp_coord	les clients connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+568	unexpected	284	284	préfèrent	long_vp_coord	les clients connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+569	expected	285	285	écrivent	long_vp_coord	les clients connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+570	unexpected	285	285	écrivent	long_vp_coord	les clients connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+571	expected	286	286	connaissent	long_vp_coord	les officiers connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+572	unexpected	286	286	connaissent	long_vp_coord	les officiers connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+573	expected	287	287	aiment	long_vp_coord	les officiers connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+574	unexpected	287	287	aiment	long_vp_coord	les officiers connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+575	expected	288	288	ont	long_vp_coord	les officiers connaissent beaucoup de langues étrangères et ont vingt trois ans	8
+576	unexpected	288	288	ont	long_vp_coord	les officiers connaissent beaucoup de langues étrangères et a vingt trois ans	8
+577	expected	289	289	préfèrent	long_vp_coord	les officiers connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+578	unexpected	289	289	préfèrent	long_vp_coord	les officiers connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+579	expected	290	290	écrivent	long_vp_coord	les officiers connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+580	unexpected	290	290	écrivent	long_vp_coord	les officiers connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+581	expected	291	291	connaissent	long_vp_coord	les pilotes connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+582	unexpected	291	291	connaissent	long_vp_coord	les pilotes connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+583	expected	292	292	aiment	long_vp_coord	les pilotes connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+584	unexpected	292	292	aiment	long_vp_coord	les pilotes connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+585	expected	293	293	ont	long_vp_coord	les pilotes connaissent beaucoup de langues étrangères et ont vingt trois ans	8
+586	unexpected	293	293	ont	long_vp_coord	les pilotes connaissent beaucoup de langues étrangères et a vingt trois ans	8
+587	expected	294	294	préfèrent	long_vp_coord	les pilotes connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+588	unexpected	294	294	préfèrent	long_vp_coord	les pilotes connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+589	expected	295	295	écrivent	long_vp_coord	les pilotes connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+590	unexpected	295	295	écrivent	long_vp_coord	les pilotes connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+591	expected	296	296	connaissent	long_vp_coord	les consultants connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères	8
+592	unexpected	296	296	connaissent	long_vp_coord	les consultants connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères	8
+593	expected	297	297	aiment	long_vp_coord	les consultants connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision	8
+594	unexpected	297	297	aiment	long_vp_coord	les consultants connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision	8
+595	expected	298	298	ont	long_vp_coord	les consultants connaissent beaucoup de langues étrangères et ont vingt trois ans	8
+596	unexpected	298	298	ont	long_vp_coord	les consultants connaissent beaucoup de langues étrangères et a vingt trois ans	8
+597	expected	299	299	préfèrent	long_vp_coord	les consultants connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues	8
+598	unexpected	299	299	préfèrent	long_vp_coord	les consultants connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues	8
+599	expected	300	300	écrivent	long_vp_coord	les consultants connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours	8
+600	unexpected	300	300	écrivent	long_vp_coord	les consultants connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours	8
+601	expected	301	301	connaissent	long_vp_coord	les auteurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+602	unexpected	301	301	connaissent	long_vp_coord	les auteurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+603	expected	302	302	aiment	long_vp_coord	les auteurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+604	unexpected	302	302	aiment	long_vp_coord	les auteurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision	9
+605	expected	303	303	ont	long_vp_coord	les auteurs aiment regarder des émissions de télévision et ont vingt trois ans	9
+606	unexpected	303	303	ont	long_vp_coord	les auteurs aiment regarder des émissions de télévision et a vingt trois ans	9
+607	expected	304	304	préfèrent	long_vp_coord	les auteurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+608	unexpected	304	304	préfèrent	long_vp_coord	les auteurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+609	expected	305	305	écrivent	long_vp_coord	les auteurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+610	unexpected	305	305	écrivent	long_vp_coord	les auteurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours	9
+611	expected	306	306	connaissent	long_vp_coord	les directeurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+612	unexpected	306	306	connaissent	long_vp_coord	les directeurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+613	expected	307	307	aiment	long_vp_coord	les directeurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+614	unexpected	307	307	aiment	long_vp_coord	les directeurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision	9
+615	expected	308	308	ont	long_vp_coord	les directeurs aiment regarder des émissions de télévision et ont vingt trois ans	9
+616	unexpected	308	308	ont	long_vp_coord	les directeurs aiment regarder des émissions de télévision et a vingt trois ans	9
+617	expected	309	309	préfèrent	long_vp_coord	les directeurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+618	unexpected	309	309	préfèrent	long_vp_coord	les directeurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+619	expected	310	310	écrivent	long_vp_coord	les directeurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+620	unexpected	310	310	écrivent	long_vp_coord	les directeurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours	9
+621	expected	311	311	connaissent	long_vp_coord	les agriculteurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+622	unexpected	311	311	connaissent	long_vp_coord	les agriculteurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+623	expected	312	312	aiment	long_vp_coord	les agriculteurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+624	unexpected	312	312	aiment	long_vp_coord	les agriculteurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision	9
+625	expected	313	313	ont	long_vp_coord	les agriculteurs aiment regarder des émissions de télévision et ont vingt trois ans	9
+626	unexpected	313	313	ont	long_vp_coord	les agriculteurs aiment regarder des émissions de télévision et a vingt trois ans	9
+627	expected	314	314	préfèrent	long_vp_coord	les agriculteurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+628	unexpected	314	314	préfèrent	long_vp_coord	les agriculteurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+629	expected	315	315	écrivent	long_vp_coord	les agriculteurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+630	unexpected	315	315	écrivent	long_vp_coord	les agriculteurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours	9
+631	expected	316	316	connaissent	long_vp_coord	les chirurgiens aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+632	unexpected	316	316	connaissent	long_vp_coord	les chirurgiens aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+633	expected	317	317	aiment	long_vp_coord	les chirurgiens aiment regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+634	unexpected	317	317	aiment	long_vp_coord	les chirurgiens aiment regarder des émissions de télévision et aime regarder des émissions de télévision	9
+635	expected	318	318	ont	long_vp_coord	les chirurgiens aiment regarder des émissions de télévision et ont vingt trois ans	9
+636	unexpected	318	318	ont	long_vp_coord	les chirurgiens aiment regarder des émissions de télévision et a vingt trois ans	9
+637	expected	319	319	préfèrent	long_vp_coord	les chirurgiens aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+638	unexpected	319	319	préfèrent	long_vp_coord	les chirurgiens aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+639	expected	320	320	écrivent	long_vp_coord	les chirurgiens aiment regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+640	unexpected	320	320	écrivent	long_vp_coord	les chirurgiens aiment regarder des émissions de télévision et écrit dans un journal tous les jours	9
+641	expected	321	321	connaissent	long_vp_coord	les sénateurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+642	unexpected	321	321	connaissent	long_vp_coord	les sénateurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+643	expected	322	322	aiment	long_vp_coord	les sénateurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+644	unexpected	322	322	aiment	long_vp_coord	les sénateurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision	9
+645	expected	323	323	ont	long_vp_coord	les sénateurs aiment regarder des émissions de télévision et ont vingt trois ans	9
+646	unexpected	323	323	ont	long_vp_coord	les sénateurs aiment regarder des émissions de télévision et a vingt trois ans	9
+647	expected	324	324	préfèrent	long_vp_coord	les sénateurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+648	unexpected	324	324	préfèrent	long_vp_coord	les sénateurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+649	expected	325	325	écrivent	long_vp_coord	les sénateurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+650	unexpected	325	325	écrivent	long_vp_coord	les sénateurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours	9
+651	expected	326	326	connaissent	long_vp_coord	les professeurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+652	unexpected	326	326	connaissent	long_vp_coord	les professeurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+653	expected	327	327	aiment	long_vp_coord	les professeurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+654	unexpected	327	327	aiment	long_vp_coord	les professeurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision	9
+655	expected	328	328	ont	long_vp_coord	les professeurs aiment regarder des émissions de télévision et ont vingt trois ans	9
+656	unexpected	328	328	ont	long_vp_coord	les professeurs aiment regarder des émissions de télévision et a vingt trois ans	9
+657	expected	329	329	préfèrent	long_vp_coord	les professeurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+658	unexpected	329	329	préfèrent	long_vp_coord	les professeurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+659	expected	330	330	écrivent	long_vp_coord	les professeurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+660	unexpected	330	330	écrivent	long_vp_coord	les professeurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours	9
+661	expected	331	331	connaissent	long_vp_coord	les clients aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+662	unexpected	331	331	connaissent	long_vp_coord	les clients aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+663	expected	332	332	aiment	long_vp_coord	les clients aiment regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+664	unexpected	332	332	aiment	long_vp_coord	les clients aiment regarder des émissions de télévision et aime regarder des émissions de télévision	9
+665	expected	333	333	ont	long_vp_coord	les clients aiment regarder des émissions de télévision et ont vingt trois ans	9
+666	unexpected	333	333	ont	long_vp_coord	les clients aiment regarder des émissions de télévision et a vingt trois ans	9
+667	expected	334	334	préfèrent	long_vp_coord	les clients aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+668	unexpected	334	334	préfèrent	long_vp_coord	les clients aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+669	expected	335	335	écrivent	long_vp_coord	les clients aiment regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+670	unexpected	335	335	écrivent	long_vp_coord	les clients aiment regarder des émissions de télévision et écrit dans un journal tous les jours	9
+671	expected	336	336	connaissent	long_vp_coord	les officiers aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+672	unexpected	336	336	connaissent	long_vp_coord	les officiers aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+673	expected	337	337	aiment	long_vp_coord	les officiers aiment regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+674	unexpected	337	337	aiment	long_vp_coord	les officiers aiment regarder des émissions de télévision et aime regarder des émissions de télévision	9
+675	expected	338	338	ont	long_vp_coord	les officiers aiment regarder des émissions de télévision et ont vingt trois ans	9
+676	unexpected	338	338	ont	long_vp_coord	les officiers aiment regarder des émissions de télévision et a vingt trois ans	9
+677	expected	339	339	préfèrent	long_vp_coord	les officiers aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+678	unexpected	339	339	préfèrent	long_vp_coord	les officiers aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+679	expected	340	340	écrivent	long_vp_coord	les officiers aiment regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+680	unexpected	340	340	écrivent	long_vp_coord	les officiers aiment regarder des émissions de télévision et écrit dans un journal tous les jours	9
+681	expected	341	341	connaissent	long_vp_coord	les pilotes aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+682	unexpected	341	341	connaissent	long_vp_coord	les pilotes aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+683	expected	342	342	aiment	long_vp_coord	les pilotes aiment regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+684	unexpected	342	342	aiment	long_vp_coord	les pilotes aiment regarder des émissions de télévision et aime regarder des émissions de télévision	9
+685	expected	343	343	ont	long_vp_coord	les pilotes aiment regarder des émissions de télévision et ont vingt trois ans	9
+686	unexpected	343	343	ont	long_vp_coord	les pilotes aiment regarder des émissions de télévision et a vingt trois ans	9
+687	expected	344	344	préfèrent	long_vp_coord	les pilotes aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+688	unexpected	344	344	préfèrent	long_vp_coord	les pilotes aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+689	expected	345	345	écrivent	long_vp_coord	les pilotes aiment regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+690	unexpected	345	345	écrivent	long_vp_coord	les pilotes aiment regarder des émissions de télévision et écrit dans un journal tous les jours	9
+691	expected	346	346	connaissent	long_vp_coord	les consultants aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères	9
+692	unexpected	346	346	connaissent	long_vp_coord	les consultants aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères	9
+693	expected	347	347	aiment	long_vp_coord	les consultants aiment regarder des émissions de télévision et aiment regarder des émissions de télévision	9
+694	unexpected	347	347	aiment	long_vp_coord	les consultants aiment regarder des émissions de télévision et aime regarder des émissions de télévision	9
+695	expected	348	348	ont	long_vp_coord	les consultants aiment regarder des émissions de télévision et ont vingt trois ans	9
+696	unexpected	348	348	ont	long_vp_coord	les consultants aiment regarder des émissions de télévision et a vingt trois ans	9
+697	expected	349	349	préfèrent	long_vp_coord	les consultants aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues	9
+698	unexpected	349	349	préfèrent	long_vp_coord	les consultants aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues	9
+699	expected	350	350	écrivent	long_vp_coord	les consultants aiment regarder des émissions de télévision et écrivent dans un journal tous les jours	9
+700	unexpected	350	350	écrivent	long_vp_coord	les consultants aiment regarder des émissions de télévision et écrit dans un journal tous les jours	9
+701	expected	351	351	connaissent	long_vp_coord	les auteurs ont vingt trois ans et connaissent beaucoup de langues étrangères	7
+702	unexpected	351	351	connaissent	long_vp_coord	les auteurs ont vingt trois ans et connaît beaucoup de langues étrangères	7
+703	expected	352	352	aiment	long_vp_coord	les auteurs ont vingt trois ans et aiment regarder des émissions de télévision	7
+704	unexpected	352	352	aiment	long_vp_coord	les auteurs ont vingt trois ans et aime regarder des émissions de télévision	7
+705	expected	353	353	ont	long_vp_coord	les auteurs ont vingt trois ans et ont vingt trois ans	7
+706	unexpected	353	353	ont	long_vp_coord	les auteurs ont vingt trois ans et a vingt trois ans	7
+707	expected	354	354	préfèrent	long_vp_coord	les auteurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+708	unexpected	354	354	préfèrent	long_vp_coord	les auteurs ont vingt trois ans et préfère jouer au tennis avec des collègues	7
+709	expected	355	355	écrivent	long_vp_coord	les auteurs ont vingt trois ans et écrivent dans un journal tous les jours	7
+710	unexpected	355	355	écrivent	long_vp_coord	les auteurs ont vingt trois ans et écrit dans un journal tous les jours	7
+711	expected	356	356	connaissent	long_vp_coord	les directeurs ont vingt trois ans et connaissent beaucoup de langues étrangères	7
+712	unexpected	356	356	connaissent	long_vp_coord	les directeurs ont vingt trois ans et connaît beaucoup de langues étrangères	7
+713	expected	357	357	aiment	long_vp_coord	les directeurs ont vingt trois ans et aiment regarder des émissions de télévision	7
+714	unexpected	357	357	aiment	long_vp_coord	les directeurs ont vingt trois ans et aime regarder des émissions de télévision	7
+715	expected	358	358	ont	long_vp_coord	les directeurs ont vingt trois ans et ont vingt trois ans	7
+716	unexpected	358	358	ont	long_vp_coord	les directeurs ont vingt trois ans et a vingt trois ans	7
+717	expected	359	359	préfèrent	long_vp_coord	les directeurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+718	unexpected	359	359	préfèrent	long_vp_coord	les directeurs ont vingt trois ans et préfère jouer au tennis avec des collègues	7
+719	expected	360	360	écrivent	long_vp_coord	les directeurs ont vingt trois ans et écrivent dans un journal tous les jours	7
+720	unexpected	360	360	écrivent	long_vp_coord	les directeurs ont vingt trois ans et écrit dans un journal tous les jours	7
+721	expected	361	361	connaissent	long_vp_coord	les agriculteurs ont vingt trois ans et connaissent beaucoup de langues étrangères	7
+722	unexpected	361	361	connaissent	long_vp_coord	les agriculteurs ont vingt trois ans et connaît beaucoup de langues étrangères	7
+723	expected	362	362	aiment	long_vp_coord	les agriculteurs ont vingt trois ans et aiment regarder des émissions de télévision	7
+724	unexpected	362	362	aiment	long_vp_coord	les agriculteurs ont vingt trois ans et aime regarder des émissions de télévision	7
+725	expected	363	363	ont	long_vp_coord	les agriculteurs ont vingt trois ans et ont vingt trois ans	7
+726	unexpected	363	363	ont	long_vp_coord	les agriculteurs ont vingt trois ans et a vingt trois ans	7
+727	expected	364	364	préfèrent	long_vp_coord	les agriculteurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+728	unexpected	364	364	préfèrent	long_vp_coord	les agriculteurs ont vingt trois ans et préfère jouer au tennis avec des collègues	7
+729	expected	365	365	écrivent	long_vp_coord	les agriculteurs ont vingt trois ans et écrivent dans un journal tous les jours	7
+730	unexpected	365	365	écrivent	long_vp_coord	les agriculteurs ont vingt trois ans et écrit dans un journal tous les jours	7
+731	expected	366	366	connaissent	long_vp_coord	les chirurgiens ont vingt trois ans et connaissent beaucoup de langues étrangères	7
+732	unexpected	366	366	connaissent	long_vp_coord	les chirurgiens ont vingt trois ans et connaît beaucoup de langues étrangères	7
+733	expected	367	367	aiment	long_vp_coord	les chirurgiens ont vingt trois ans et aiment regarder des émissions de télévision	7
+734	unexpected	367	367	aiment	long_vp_coord	les chirurgiens ont vingt trois ans et aime regarder des émissions de télévision	7
+735	expected	368	368	ont	long_vp_coord	les chirurgiens ont vingt trois ans et ont vingt trois ans	7
+736	unexpected	368	368	ont	long_vp_coord	les chirurgiens ont vingt trois ans et a vingt trois ans	7
+737	expected	369	369	préfèrent	long_vp_coord	les chirurgiens ont vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+738	unexpected	369	369	préfèrent	long_vp_coord	les chirurgiens ont vingt trois ans et préfère jouer au tennis avec des collègues	7
+739	expected	370	370	écrivent	long_vp_coord	les chirurgiens ont vingt trois ans et écrivent dans un journal tous les jours	7
+740	unexpected	370	370	écrivent	long_vp_coord	les chirurgiens ont vingt trois ans et écrit dans un journal tous les jours	7
+741	expected	371	371	connaissent	long_vp_coord	les sénateurs ont vingt trois ans et connaissent beaucoup de langues étrangères	7
+742	unexpected	371	371	connaissent	long_vp_coord	les sénateurs ont vingt trois ans et connaît beaucoup de langues étrangères	7
+743	expected	372	372	aiment	long_vp_coord	les sénateurs ont vingt trois ans et aiment regarder des émissions de télévision	7
+744	unexpected	372	372	aiment	long_vp_coord	les sénateurs ont vingt trois ans et aime regarder des émissions de télévision	7
+745	expected	373	373	ont	long_vp_coord	les sénateurs ont vingt trois ans et ont vingt trois ans	7
+746	unexpected	373	373	ont	long_vp_coord	les sénateurs ont vingt trois ans et a vingt trois ans	7
+747	expected	374	374	préfèrent	long_vp_coord	les sénateurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+748	unexpected	374	374	préfèrent	long_vp_coord	les sénateurs ont vingt trois ans et préfère jouer au tennis avec des collègues	7
+749	expected	375	375	écrivent	long_vp_coord	les sénateurs ont vingt trois ans et écrivent dans un journal tous les jours	7
+750	unexpected	375	375	écrivent	long_vp_coord	les sénateurs ont vingt trois ans et écrit dans un journal tous les jours	7
+751	expected	376	376	connaissent	long_vp_coord	les professeurs ont vingt trois ans et connaissent beaucoup de langues étrangères	7
+752	unexpected	376	376	connaissent	long_vp_coord	les professeurs ont vingt trois ans et connaît beaucoup de langues étrangères	7
+753	expected	377	377	aiment	long_vp_coord	les professeurs ont vingt trois ans et aiment regarder des émissions de télévision	7
+754	unexpected	377	377	aiment	long_vp_coord	les professeurs ont vingt trois ans et aime regarder des émissions de télévision	7
+755	expected	378	378	ont	long_vp_coord	les professeurs ont vingt trois ans et ont vingt trois ans	7
+756	unexpected	378	378	ont	long_vp_coord	les professeurs ont vingt trois ans et a vingt trois ans	7
+757	expected	379	379	préfèrent	long_vp_coord	les professeurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+758	unexpected	379	379	préfèrent	long_vp_coord	les professeurs ont vingt trois ans et préfère jouer au tennis avec des collègues	7
+759	expected	380	380	écrivent	long_vp_coord	les professeurs ont vingt trois ans et écrivent dans un journal tous les jours	7
+760	unexpected	380	380	écrivent	long_vp_coord	les professeurs ont vingt trois ans et écrit dans un journal tous les jours	7
+761	expected	381	381	connaissent	long_vp_coord	les clients ont vingt trois ans et connaissent beaucoup de langues étrangères	7
+762	unexpected	381	381	connaissent	long_vp_coord	les clients ont vingt trois ans et connaît beaucoup de langues étrangères	7
+763	expected	382	382	aiment	long_vp_coord	les clients ont vingt trois ans et aiment regarder des émissions de télévision	7
+764	unexpected	382	382	aiment	long_vp_coord	les clients ont vingt trois ans et aime regarder des émissions de télévision	7
+765	expected	383	383	ont	long_vp_coord	les clients ont vingt trois ans et ont vingt trois ans	7
+766	unexpected	383	383	ont	long_vp_coord	les clients ont vingt trois ans et a vingt trois ans	7
+767	expected	384	384	préfèrent	long_vp_coord	les clients ont vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+768	unexpected	384	384	préfèrent	long_vp_coord	les clients ont vingt trois ans et préfère jouer au tennis avec des collègues	7
+769	expected	385	385	écrivent	long_vp_coord	les clients ont vingt trois ans et écrivent dans un journal tous les jours	7
+770	unexpected	385	385	écrivent	long_vp_coord	les clients ont vingt trois ans et écrit dans un journal tous les jours	7
+771	expected	386	386	connaissent	long_vp_coord	les officiers ont vingt trois ans et connaissent beaucoup de langues étrangères	7
+772	unexpected	386	386	connaissent	long_vp_coord	les officiers ont vingt trois ans et connaît beaucoup de langues étrangères	7
+773	expected	387	387	aiment	long_vp_coord	les officiers ont vingt trois ans et aiment regarder des émissions de télévision	7
+774	unexpected	387	387	aiment	long_vp_coord	les officiers ont vingt trois ans et aime regarder des émissions de télévision	7
+775	expected	388	388	ont	long_vp_coord	les officiers ont vingt trois ans et ont vingt trois ans	7
+776	unexpected	388	388	ont	long_vp_coord	les officiers ont vingt trois ans et a vingt trois ans	7
+777	expected	389	389	préfèrent	long_vp_coord	les officiers ont vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+778	unexpected	389	389	préfèrent	long_vp_coord	les officiers ont vingt trois ans et préfère jouer au tennis avec des collègues	7
+779	expected	390	390	écrivent	long_vp_coord	les officiers ont vingt trois ans et écrivent dans un journal tous les jours	7
+780	unexpected	390	390	écrivent	long_vp_coord	les officiers ont vingt trois ans et écrit dans un journal tous les jours	7
+781	expected	391	391	connaissent	long_vp_coord	les pilotes ont vingt trois ans et connaissent beaucoup de langues étrangères	7
+782	unexpected	391	391	connaissent	long_vp_coord	les pilotes ont vingt trois ans et connaît beaucoup de langues étrangères	7
+783	expected	392	392	aiment	long_vp_coord	les pilotes ont vingt trois ans et aiment regarder des émissions de télévision	7
+784	unexpected	392	392	aiment	long_vp_coord	les pilotes ont vingt trois ans et aime regarder des émissions de télévision	7
+785	expected	393	393	ont	long_vp_coord	les pilotes ont vingt trois ans et ont vingt trois ans	7
+786	unexpected	393	393	ont	long_vp_coord	les pilotes ont vingt trois ans et a vingt trois ans	7
+787	expected	394	394	préfèrent	long_vp_coord	les pilotes ont vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+788	unexpected	394	394	préfèrent	long_vp_coord	les pilotes ont vingt trois ans et préfère jouer au tennis avec des collègues	7
+789	expected	395	395	écrivent	long_vp_coord	les pilotes ont vingt trois ans et écrivent dans un journal tous les jours	7
+790	unexpected	395	395	écrivent	long_vp_coord	les pilotes ont vingt trois ans et écrit dans un journal tous les jours	7
+791	expected	396	396	connaissent	long_vp_coord	les consultants ont vingt trois ans et connaissent beaucoup de langues étrangères	7
+792	unexpected	396	396	connaissent	long_vp_coord	les consultants ont vingt trois ans et connaît beaucoup de langues étrangères	7
+793	expected	397	397	aiment	long_vp_coord	les consultants ont vingt trois ans et aiment regarder des émissions de télévision	7
+794	unexpected	397	397	aiment	long_vp_coord	les consultants ont vingt trois ans et aime regarder des émissions de télévision	7
+795	expected	398	398	ont	long_vp_coord	les consultants ont vingt trois ans et ont vingt trois ans	7
+796	unexpected	398	398	ont	long_vp_coord	les consultants ont vingt trois ans et a vingt trois ans	7
+797	expected	399	399	préfèrent	long_vp_coord	les consultants ont vingt trois ans et préfèrent jouer au tennis avec des collègues	7
+798	unexpected	399	399	préfèrent	long_vp_coord	les consultants ont vingt trois ans et préfère jouer au tennis avec des collègues	7
+799	expected	400	400	écrivent	long_vp_coord	les consultants ont vingt trois ans et écrivent dans un journal tous les jours	7
+800	unexpected	400	400	écrivent	long_vp_coord	les consultants ont vingt trois ans et écrit dans un journal tous les jours	7
+801	expected	401	401	connaissent	long_vp_coord	les auteurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+802	unexpected	401	401	connaissent	long_vp_coord	les auteurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+803	expected	402	402	aiment	long_vp_coord	les auteurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+804	unexpected	402	402	aiment	long_vp_coord	les auteurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+805	expected	403	403	ont	long_vp_coord	les auteurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans	10
+806	unexpected	403	403	ont	long_vp_coord	les auteurs préfèrent jouer au tennis avec des collègues et a vingt trois ans	10
+807	expected	404	404	préfèrent	long_vp_coord	les auteurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+808	unexpected	404	404	préfèrent	long_vp_coord	les auteurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+809	expected	405	405	écrivent	long_vp_coord	les auteurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+810	unexpected	405	405	écrivent	long_vp_coord	les auteurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+811	expected	406	406	connaissent	long_vp_coord	les directeurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+812	unexpected	406	406	connaissent	long_vp_coord	les directeurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+813	expected	407	407	aiment	long_vp_coord	les directeurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+814	unexpected	407	407	aiment	long_vp_coord	les directeurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+815	expected	408	408	ont	long_vp_coord	les directeurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans	10
+816	unexpected	408	408	ont	long_vp_coord	les directeurs préfèrent jouer au tennis avec des collègues et a vingt trois ans	10
+817	expected	409	409	préfèrent	long_vp_coord	les directeurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+818	unexpected	409	409	préfèrent	long_vp_coord	les directeurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+819	expected	410	410	écrivent	long_vp_coord	les directeurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+820	unexpected	410	410	écrivent	long_vp_coord	les directeurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+821	expected	411	411	connaissent	long_vp_coord	les agriculteurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+822	unexpected	411	411	connaissent	long_vp_coord	les agriculteurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+823	expected	412	412	aiment	long_vp_coord	les agriculteurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+824	unexpected	412	412	aiment	long_vp_coord	les agriculteurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+825	expected	413	413	ont	long_vp_coord	les agriculteurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans	10
+826	unexpected	413	413	ont	long_vp_coord	les agriculteurs préfèrent jouer au tennis avec des collègues et a vingt trois ans	10
+827	expected	414	414	préfèrent	long_vp_coord	les agriculteurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+828	unexpected	414	414	préfèrent	long_vp_coord	les agriculteurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+829	expected	415	415	écrivent	long_vp_coord	les agriculteurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+830	unexpected	415	415	écrivent	long_vp_coord	les agriculteurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+831	expected	416	416	connaissent	long_vp_coord	les chirurgiens préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+832	unexpected	416	416	connaissent	long_vp_coord	les chirurgiens préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+833	expected	417	417	aiment	long_vp_coord	les chirurgiens préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+834	unexpected	417	417	aiment	long_vp_coord	les chirurgiens préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+835	expected	418	418	ont	long_vp_coord	les chirurgiens préfèrent jouer au tennis avec des collègues et ont vingt trois ans	10
+836	unexpected	418	418	ont	long_vp_coord	les chirurgiens préfèrent jouer au tennis avec des collègues et a vingt trois ans	10
+837	expected	419	419	préfèrent	long_vp_coord	les chirurgiens préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+838	unexpected	419	419	préfèrent	long_vp_coord	les chirurgiens préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+839	expected	420	420	écrivent	long_vp_coord	les chirurgiens préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+840	unexpected	420	420	écrivent	long_vp_coord	les chirurgiens préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+841	expected	421	421	connaissent	long_vp_coord	les sénateurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+842	unexpected	421	421	connaissent	long_vp_coord	les sénateurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+843	expected	422	422	aiment	long_vp_coord	les sénateurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+844	unexpected	422	422	aiment	long_vp_coord	les sénateurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+845	expected	423	423	ont	long_vp_coord	les sénateurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans	10
+846	unexpected	423	423	ont	long_vp_coord	les sénateurs préfèrent jouer au tennis avec des collègues et a vingt trois ans	10
+847	expected	424	424	préfèrent	long_vp_coord	les sénateurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+848	unexpected	424	424	préfèrent	long_vp_coord	les sénateurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+849	expected	425	425	écrivent	long_vp_coord	les sénateurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+850	unexpected	425	425	écrivent	long_vp_coord	les sénateurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+851	expected	426	426	connaissent	long_vp_coord	les professeurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+852	unexpected	426	426	connaissent	long_vp_coord	les professeurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+853	expected	427	427	aiment	long_vp_coord	les professeurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+854	unexpected	427	427	aiment	long_vp_coord	les professeurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+855	expected	428	428	ont	long_vp_coord	les professeurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans	10
+856	unexpected	428	428	ont	long_vp_coord	les professeurs préfèrent jouer au tennis avec des collègues et a vingt trois ans	10
+857	expected	429	429	préfèrent	long_vp_coord	les professeurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+858	unexpected	429	429	préfèrent	long_vp_coord	les professeurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+859	expected	430	430	écrivent	long_vp_coord	les professeurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+860	unexpected	430	430	écrivent	long_vp_coord	les professeurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+861	expected	431	431	connaissent	long_vp_coord	les clients préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+862	unexpected	431	431	connaissent	long_vp_coord	les clients préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+863	expected	432	432	aiment	long_vp_coord	les clients préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+864	unexpected	432	432	aiment	long_vp_coord	les clients préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+865	expected	433	433	ont	long_vp_coord	les clients préfèrent jouer au tennis avec des collègues et ont vingt trois ans	10
+866	unexpected	433	433	ont	long_vp_coord	les clients préfèrent jouer au tennis avec des collègues et a vingt trois ans	10
+867	expected	434	434	préfèrent	long_vp_coord	les clients préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+868	unexpected	434	434	préfèrent	long_vp_coord	les clients préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+869	expected	435	435	écrivent	long_vp_coord	les clients préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+870	unexpected	435	435	écrivent	long_vp_coord	les clients préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+871	expected	436	436	connaissent	long_vp_coord	les officiers préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+872	unexpected	436	436	connaissent	long_vp_coord	les officiers préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+873	expected	437	437	aiment	long_vp_coord	les officiers préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+874	unexpected	437	437	aiment	long_vp_coord	les officiers préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+875	expected	438	438	ont	long_vp_coord	les officiers préfèrent jouer au tennis avec des collègues et ont vingt trois ans	10
+876	unexpected	438	438	ont	long_vp_coord	les officiers préfèrent jouer au tennis avec des collègues et a vingt trois ans	10
+877	expected	439	439	préfèrent	long_vp_coord	les officiers préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+878	unexpected	439	439	préfèrent	long_vp_coord	les officiers préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+879	expected	440	440	écrivent	long_vp_coord	les officiers préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+880	unexpected	440	440	écrivent	long_vp_coord	les officiers préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+881	expected	441	441	connaissent	long_vp_coord	les pilotes préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+882	unexpected	441	441	connaissent	long_vp_coord	les pilotes préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+883	expected	442	442	aiment	long_vp_coord	les pilotes préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+884	unexpected	442	442	aiment	long_vp_coord	les pilotes préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+885	expected	443	443	ont	long_vp_coord	les pilotes préfèrent jouer au tennis avec des collègues et ont vingt trois ans	10
+886	unexpected	443	443	ont	long_vp_coord	les pilotes préfèrent jouer au tennis avec des collègues et a vingt trois ans	10
+887	expected	444	444	préfèrent	long_vp_coord	les pilotes préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+888	unexpected	444	444	préfèrent	long_vp_coord	les pilotes préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+889	expected	445	445	écrivent	long_vp_coord	les pilotes préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+890	unexpected	445	445	écrivent	long_vp_coord	les pilotes préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+891	expected	446	446	connaissent	long_vp_coord	les consultants préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères	10
+892	unexpected	446	446	connaissent	long_vp_coord	les consultants préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères	10
+893	expected	447	447	aiment	long_vp_coord	les consultants préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision	10
+894	unexpected	447	447	aiment	long_vp_coord	les consultants préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision	10
+895	expected	448	448	ont	long_vp_coord	les consultants préfèrent jouer au tennis avec des collègues et ont vingt trois ans	10
+896	unexpected	448	448	ont	long_vp_coord	les consultants préfèrent jouer au tennis avec des collègues et a vingt trois ans	10
+897	expected	449	449	préfèrent	long_vp_coord	les consultants préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues	10
+898	unexpected	449	449	préfèrent	long_vp_coord	les consultants préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues	10
+899	expected	450	450	écrivent	long_vp_coord	les consultants préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours	10
+900	unexpected	450	450	écrivent	long_vp_coord	les consultants préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours	10
+901	expected	451	451	connaissent	long_vp_coord	les auteurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+902	unexpected	451	451	connaissent	long_vp_coord	les auteurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+903	expected	452	452	aiment	long_vp_coord	les auteurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision	10
+904	unexpected	452	452	aiment	long_vp_coord	les auteurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision	10
+905	expected	453	453	ont	long_vp_coord	les auteurs écrivent dans un journal tous les jours et ont vingt trois ans	10
+906	unexpected	453	453	ont	long_vp_coord	les auteurs écrivent dans un journal tous les jours et a vingt trois ans	10
+907	expected	454	454	préfèrent	long_vp_coord	les auteurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+908	unexpected	454	454	préfèrent	long_vp_coord	les auteurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+909	expected	455	455	écrivent	long_vp_coord	les auteurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours	10
+910	unexpected	455	455	écrivent	long_vp_coord	les auteurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours	10
+911	expected	456	456	connaissent	long_vp_coord	les directeurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+912	unexpected	456	456	connaissent	long_vp_coord	les directeurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+913	expected	457	457	aiment	long_vp_coord	les directeurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision	10
+914	unexpected	457	457	aiment	long_vp_coord	les directeurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision	10
+915	expected	458	458	ont	long_vp_coord	les directeurs écrivent dans un journal tous les jours et ont vingt trois ans	10
+916	unexpected	458	458	ont	long_vp_coord	les directeurs écrivent dans un journal tous les jours et a vingt trois ans	10
+917	expected	459	459	préfèrent	long_vp_coord	les directeurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+918	unexpected	459	459	préfèrent	long_vp_coord	les directeurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+919	expected	460	460	écrivent	long_vp_coord	les directeurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours	10
+920	unexpected	460	460	écrivent	long_vp_coord	les directeurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours	10
+921	expected	461	461	connaissent	long_vp_coord	les agriculteurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+922	unexpected	461	461	connaissent	long_vp_coord	les agriculteurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+923	expected	462	462	aiment	long_vp_coord	les agriculteurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision	10
+924	unexpected	462	462	aiment	long_vp_coord	les agriculteurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision	10
+925	expected	463	463	ont	long_vp_coord	les agriculteurs écrivent dans un journal tous les jours et ont vingt trois ans	10
+926	unexpected	463	463	ont	long_vp_coord	les agriculteurs écrivent dans un journal tous les jours et a vingt trois ans	10
+927	expected	464	464	préfèrent	long_vp_coord	les agriculteurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+928	unexpected	464	464	préfèrent	long_vp_coord	les agriculteurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+929	expected	465	465	écrivent	long_vp_coord	les agriculteurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours	10
+930	unexpected	465	465	écrivent	long_vp_coord	les agriculteurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours	10
+931	expected	466	466	connaissent	long_vp_coord	les chirurgiens écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+932	unexpected	466	466	connaissent	long_vp_coord	les chirurgiens écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+933	expected	467	467	aiment	long_vp_coord	les chirurgiens écrivent dans un journal tous les jours et aiment regarder des émissions de télévision	10
+934	unexpected	467	467	aiment	long_vp_coord	les chirurgiens écrivent dans un journal tous les jours et aime regarder des émissions de télévision	10
+935	expected	468	468	ont	long_vp_coord	les chirurgiens écrivent dans un journal tous les jours et ont vingt trois ans	10
+936	unexpected	468	468	ont	long_vp_coord	les chirurgiens écrivent dans un journal tous les jours et a vingt trois ans	10
+937	expected	469	469	préfèrent	long_vp_coord	les chirurgiens écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+938	unexpected	469	469	préfèrent	long_vp_coord	les chirurgiens écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+939	expected	470	470	écrivent	long_vp_coord	les chirurgiens écrivent dans un journal tous les jours et écrivent dans un journal tous les jours	10
+940	unexpected	470	470	écrivent	long_vp_coord	les chirurgiens écrivent dans un journal tous les jours et écrit dans un journal tous les jours	10
+941	expected	471	471	connaissent	long_vp_coord	les sénateurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+942	unexpected	471	471	connaissent	long_vp_coord	les sénateurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+943	expected	472	472	aiment	long_vp_coord	les sénateurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision	10
+944	unexpected	472	472	aiment	long_vp_coord	les sénateurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision	10
+945	expected	473	473	ont	long_vp_coord	les sénateurs écrivent dans un journal tous les jours et ont vingt trois ans	10
+946	unexpected	473	473	ont	long_vp_coord	les sénateurs écrivent dans un journal tous les jours et a vingt trois ans	10
+947	expected	474	474	préfèrent	long_vp_coord	les sénateurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+948	unexpected	474	474	préfèrent	long_vp_coord	les sénateurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+949	expected	475	475	écrivent	long_vp_coord	les sénateurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours	10
+950	unexpected	475	475	écrivent	long_vp_coord	les sénateurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours	10
+951	expected	476	476	connaissent	long_vp_coord	les professeurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+952	unexpected	476	476	connaissent	long_vp_coord	les professeurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+953	expected	477	477	aiment	long_vp_coord	les professeurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision	10
+954	unexpected	477	477	aiment	long_vp_coord	les professeurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision	10
+955	expected	478	478	ont	long_vp_coord	les professeurs écrivent dans un journal tous les jours et ont vingt trois ans	10
+956	unexpected	478	478	ont	long_vp_coord	les professeurs écrivent dans un journal tous les jours et a vingt trois ans	10
+957	expected	479	479	préfèrent	long_vp_coord	les professeurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+958	unexpected	479	479	préfèrent	long_vp_coord	les professeurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+959	expected	480	480	écrivent	long_vp_coord	les professeurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours	10
+960	unexpected	480	480	écrivent	long_vp_coord	les professeurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours	10
+961	expected	481	481	connaissent	long_vp_coord	les clients écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+962	unexpected	481	481	connaissent	long_vp_coord	les clients écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+963	expected	482	482	aiment	long_vp_coord	les clients écrivent dans un journal tous les jours et aiment regarder des émissions de télévision	10
+964	unexpected	482	482	aiment	long_vp_coord	les clients écrivent dans un journal tous les jours et aime regarder des émissions de télévision	10
+965	expected	483	483	ont	long_vp_coord	les clients écrivent dans un journal tous les jours et ont vingt trois ans	10
+966	unexpected	483	483	ont	long_vp_coord	les clients écrivent dans un journal tous les jours et a vingt trois ans	10
+967	expected	484	484	préfèrent	long_vp_coord	les clients écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+968	unexpected	484	484	préfèrent	long_vp_coord	les clients écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+969	expected	485	485	écrivent	long_vp_coord	les clients écrivent dans un journal tous les jours et écrivent dans un journal tous les jours	10
+970	unexpected	485	485	écrivent	long_vp_coord	les clients écrivent dans un journal tous les jours et écrit dans un journal tous les jours	10
+971	expected	486	486	connaissent	long_vp_coord	les officiers écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+972	unexpected	486	486	connaissent	long_vp_coord	les officiers écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+973	expected	487	487	aiment	long_vp_coord	les officiers écrivent dans un journal tous les jours et aiment regarder des émissions de télévision	10
+974	unexpected	487	487	aiment	long_vp_coord	les officiers écrivent dans un journal tous les jours et aime regarder des émissions de télévision	10
+975	expected	488	488	ont	long_vp_coord	les officiers écrivent dans un journal tous les jours et ont vingt trois ans	10
+976	unexpected	488	488	ont	long_vp_coord	les officiers écrivent dans un journal tous les jours et a vingt trois ans	10
+977	expected	489	489	préfèrent	long_vp_coord	les officiers écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+978	unexpected	489	489	préfèrent	long_vp_coord	les officiers écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+979	expected	490	490	écrivent	long_vp_coord	les officiers écrivent dans un journal tous les jours et écrivent dans un journal tous les jours	10
+980	unexpected	490	490	écrivent	long_vp_coord	les officiers écrivent dans un journal tous les jours et écrit dans un journal tous les jours	10
+981	expected	491	491	connaissent	long_vp_coord	les pilotes écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+982	unexpected	491	491	connaissent	long_vp_coord	les pilotes écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+983	expected	492	492	aiment	long_vp_coord	les pilotes écrivent dans un journal tous les jours et aiment regarder des émissions de télévision	10
+984	unexpected	492	492	aiment	long_vp_coord	les pilotes écrivent dans un journal tous les jours et aime regarder des émissions de télévision	10
+985	expected	493	493	ont	long_vp_coord	les pilotes écrivent dans un journal tous les jours et ont vingt trois ans	10
+986	unexpected	493	493	ont	long_vp_coord	les pilotes écrivent dans un journal tous les jours et a vingt trois ans	10
+987	expected	494	494	préfèrent	long_vp_coord	les pilotes écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+988	unexpected	494	494	préfèrent	long_vp_coord	les pilotes écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+989	expected	495	495	écrivent	long_vp_coord	les pilotes écrivent dans un journal tous les jours et écrivent dans un journal tous les jours	10
+990	unexpected	495	495	écrivent	long_vp_coord	les pilotes écrivent dans un journal tous les jours et écrit dans un journal tous les jours	10
+991	expected	496	496	connaissent	long_vp_coord	les consultants écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères	10
+992	unexpected	496	496	connaissent	long_vp_coord	les consultants écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères	10
+993	expected	497	497	aiment	long_vp_coord	les consultants écrivent dans un journal tous les jours et aiment regarder des émissions de télévision	10
+994	unexpected	497	497	aiment	long_vp_coord	les consultants écrivent dans un journal tous les jours et aime regarder des émissions de télévision	10
+995	expected	498	498	ont	long_vp_coord	les consultants écrivent dans un journal tous les jours et ont vingt trois ans	10
+996	unexpected	498	498	ont	long_vp_coord	les consultants écrivent dans un journal tous les jours et a vingt trois ans	10
+997	expected	499	499	préfèrent	long_vp_coord	les consultants écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues	10
+998	unexpected	499	499	préfèrent	long_vp_coord	les consultants écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues	10
+999	expected	500	500	écrivent	long_vp_coord	les consultants écrivent dans un journal tous les jours et écrivent dans un journal tous les jours	10
+1000	unexpected	500	500	écrivent	long_vp_coord	les consultants écrivent dans un journal tous les jours et écrit dans un journal tous les jours	10

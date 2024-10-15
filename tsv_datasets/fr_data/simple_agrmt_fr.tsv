@@ -1,0 +1,561 @@
+sentid	comparison	pairid	contextid	lemma	condition	sentence	ROI
+1	expected	1	1	sont	simple_agrmt	les auteurs sont vieux	2
+2	unexpected	1	1	sont	simple_agrmt	les auteurs est vieux	2
+3	expected	2	2	sont	simple_agrmt	les auteurs sont jeunes	2,3
+4	unexpected	2	2	sont	simple_agrmt	les auteurs est jeune	2,3
+5	expected	3	3	sont	simple_agrmt	les auteurs sont petits	2,3
+6	unexpected	3	3	sont	simple_agrmt	les auteurs est petit	2,3
+7	expected	4	4	sont	simple_agrmt	les auteurs sont grands	2,3
+8	unexpected	4	4	sont	simple_agrmt	les auteurs est grand	2,3
+9	expected	5	5	déménagent	simple_agrmt	les auteurs déménagent	2
+10	unexpected	5	5	déménagent	simple_agrmt	les auteurs déménage	2
+11	expected	6	6	parlent	simple_agrmt	les auteurs parlent	2
+12	unexpected	6	6	parlent	simple_agrmt	les auteurs parle	2
+13	expected	7	7	retournent	simple_agrmt	les auteurs retournent	2
+14	unexpected	7	7	retournent	simple_agrmt	les auteurs retourne	2
+15	expected	8	8	sont	simple_agrmt	les directeurs sont vieux	2
+16	unexpected	8	8	sont	simple_agrmt	les directeurs est vieux	2
+17	expected	9	9	sont	simple_agrmt	les directeurs sont jeunes	2,3
+18	unexpected	9	9	sont	simple_agrmt	les directeurs est jeune	2,3
+19	expected	10	10	sont	simple_agrmt	les directeurs sont petits	2,3
+20	unexpected	10	10	sont	simple_agrmt	les directeurs est petit	2,3
+21	expected	11	11	sont	simple_agrmt	les directeurs sont grands	2,3
+22	unexpected	11	11	sont	simple_agrmt	les directeurs est grand	2,3
+23	expected	12	12	déménagent	simple_agrmt	les directeurs déménagent	2
+24	unexpected	12	12	déménagent	simple_agrmt	les directeurs déménage	2
+25	expected	13	13	parlent	simple_agrmt	les directeurs parlent	2
+26	unexpected	13	13	parlent	simple_agrmt	les directeurs parle	2
+27	expected	14	14	retournent	simple_agrmt	les directeurs retournent	2
+28	unexpected	14	14	retournent	simple_agrmt	les directeurs retourne	2
+29	expected	15	15	sont	simple_agrmt	les agriculteurs sont vieux	2
+30	unexpected	15	15	sont	simple_agrmt	les agriculteurs est vieux	2
+31	expected	16	16	sont	simple_agrmt	les agriculteurs sont jeunes	2,3
+32	unexpected	16	16	sont	simple_agrmt	les agriculteurs est jeune	2,3
+33	expected	17	17	sont	simple_agrmt	les agriculteurs sont petits	2,3
+34	unexpected	17	17	sont	simple_agrmt	les agriculteurs est petit	2,3
+35	expected	18	18	sont	simple_agrmt	les agriculteurs sont grands	2,3
+36	unexpected	18	18	sont	simple_agrmt	les agriculteurs est grand	2,3
+37	expected	19	19	déménagent	simple_agrmt	les agriculteurs déménagent	2
+38	unexpected	19	19	déménagent	simple_agrmt	les agriculteurs déménage	2
+39	expected	20	20	parlent	simple_agrmt	les agriculteurs parlent	2
+40	unexpected	20	20	parlent	simple_agrmt	les agriculteurs parle	2
+41	expected	21	21	retournent	simple_agrmt	les agriculteurs retournent	2
+42	unexpected	21	21	retournent	simple_agrmt	les agriculteurs retourne	2
+43	expected	22	22	sont	simple_agrmt	les chirurgiens sont vieux	2
+44	unexpected	22	22	sont	simple_agrmt	les chirurgiens est vieux	2
+45	expected	23	23	sont	simple_agrmt	les chirurgiens sont jeunes	2,3
+46	unexpected	23	23	sont	simple_agrmt	les chirurgiens est jeune	2,3
+47	expected	24	24	sont	simple_agrmt	les chirurgiens sont petits	2,3
+48	unexpected	24	24	sont	simple_agrmt	les chirurgiens est petit	2,3
+49	expected	25	25	sont	simple_agrmt	les chirurgiens sont grands	2,3
+50	unexpected	25	25	sont	simple_agrmt	les chirurgiens est grand	2,3
+51	expected	26	26	déménagent	simple_agrmt	les chirurgiens déménagent	2
+52	unexpected	26	26	déménagent	simple_agrmt	les chirurgiens déménage	2
+53	expected	27	27	parlent	simple_agrmt	les chirurgiens parlent	2
+54	unexpected	27	27	parlent	simple_agrmt	les chirurgiens parle	2
+55	expected	28	28	retournent	simple_agrmt	les chirurgiens retournent	2
+56	unexpected	28	28	retournent	simple_agrmt	les chirurgiens retourne	2
+57	expected	29	29	sont	simple_agrmt	les sénateurs sont vieux	2
+58	unexpected	29	29	sont	simple_agrmt	les sénateurs est vieux	2
+59	expected	30	30	sont	simple_agrmt	les sénateurs sont jeunes	2,3
+60	unexpected	30	30	sont	simple_agrmt	les sénateurs est jeune	2,3
+61	expected	31	31	sont	simple_agrmt	les sénateurs sont petits	2,3
+62	unexpected	31	31	sont	simple_agrmt	les sénateurs est petit	2,3
+63	expected	32	32	sont	simple_agrmt	les sénateurs sont grands	2,3
+64	unexpected	32	32	sont	simple_agrmt	les sénateurs est grand	2,3
+65	expected	33	33	déménagent	simple_agrmt	les sénateurs déménagent	2
+66	unexpected	33	33	déménagent	simple_agrmt	les sénateurs déménage	2
+67	expected	34	34	parlent	simple_agrmt	les sénateurs parlent	2
+68	unexpected	34	34	parlent	simple_agrmt	les sénateurs parle	2
+69	expected	35	35	retournent	simple_agrmt	les sénateurs retournent	2
+70	unexpected	35	35	retournent	simple_agrmt	les sénateurs retourne	2
+71	expected	36	36	sont	simple_agrmt	les professeurs sont vieux	2
+72	unexpected	36	36	sont	simple_agrmt	les professeurs est vieux	2
+73	expected	37	37	sont	simple_agrmt	les professeurs sont jeunes	2,3
+74	unexpected	37	37	sont	simple_agrmt	les professeurs est jeune	2,3
+75	expected	38	38	sont	simple_agrmt	les professeurs sont petits	2,3
+76	unexpected	38	38	sont	simple_agrmt	les professeurs est petit	2,3
+77	expected	39	39	sont	simple_agrmt	les professeurs sont grands	2,3
+78	unexpected	39	39	sont	simple_agrmt	les professeurs est grand	2,3
+79	expected	40	40	déménagent	simple_agrmt	les professeurs déménagent	2
+80	unexpected	40	40	déménagent	simple_agrmt	les professeurs déménage	2
+81	expected	41	41	parlent	simple_agrmt	les professeurs parlent	2
+82	unexpected	41	41	parlent	simple_agrmt	les professeurs parle	2
+83	expected	42	42	retournent	simple_agrmt	les professeurs retournent	2
+84	unexpected	42	42	retournent	simple_agrmt	les professeurs retourne	2
+85	expected	43	43	sont	simple_agrmt	les clients sont vieux	2
+86	unexpected	43	43	sont	simple_agrmt	les clients est vieux	2
+87	expected	44	44	sont	simple_agrmt	les clients sont jeunes	2,3
+88	unexpected	44	44	sont	simple_agrmt	les clients est jeune	2,3
+89	expected	45	45	sont	simple_agrmt	les clients sont petits	2,3
+90	unexpected	45	45	sont	simple_agrmt	les clients est petit	2,3
+91	expected	46	46	sont	simple_agrmt	les clients sont grands	2,3
+92	unexpected	46	46	sont	simple_agrmt	les clients est grand	2,3
+93	expected	47	47	déménagent	simple_agrmt	les clients déménagent	2
+94	unexpected	47	47	déménagent	simple_agrmt	les clients déménage	2
+95	expected	48	48	parlent	simple_agrmt	les clients parlent	2
+96	unexpected	48	48	parlent	simple_agrmt	les clients parle	2
+97	expected	49	49	retournent	simple_agrmt	les clients retournent	2
+98	unexpected	49	49	retournent	simple_agrmt	les clients retourne	2
+99	expected	50	50	sont	simple_agrmt	les officiers sont vieux	2
+100	unexpected	50	50	sont	simple_agrmt	les officiers est vieux	2
+101	expected	51	51	sont	simple_agrmt	les officiers sont jeunes	2,3
+102	unexpected	51	51	sont	simple_agrmt	les officiers est jeune	2,3
+103	expected	52	52	sont	simple_agrmt	les officiers sont petits	2,3
+104	unexpected	52	52	sont	simple_agrmt	les officiers est petit	2,3
+105	expected	53	53	sont	simple_agrmt	les officiers sont grands	2,3
+106	unexpected	53	53	sont	simple_agrmt	les officiers est grand	2,3
+107	expected	54	54	déménagent	simple_agrmt	les officiers déménagent	2
+108	unexpected	54	54	déménagent	simple_agrmt	les officiers déménage	2
+109	expected	55	55	parlent	simple_agrmt	les officiers parlent	2
+110	unexpected	55	55	parlent	simple_agrmt	les officiers parle	2
+111	expected	56	56	retournent	simple_agrmt	les officiers retournent	2
+112	unexpected	56	56	retournent	simple_agrmt	les officiers retourne	2
+113	expected	57	57	sont	simple_agrmt	les pilotes sont vieux	2
+114	unexpected	57	57	sont	simple_agrmt	les pilotes est vieux	2
+115	expected	58	58	sont	simple_agrmt	les pilotes sont jeunes	2,3
+116	unexpected	58	58	sont	simple_agrmt	les pilotes est jeune	2,3
+117	expected	59	59	sont	simple_agrmt	les pilotes sont petits	2,3
+118	unexpected	59	59	sont	simple_agrmt	les pilotes est petit	2,3
+119	expected	60	60	sont	simple_agrmt	les pilotes sont grands	2,3
+120	unexpected	60	60	sont	simple_agrmt	les pilotes est grand	2,3
+121	expected	61	61	déménagent	simple_agrmt	les pilotes déménagent	2
+122	unexpected	61	61	déménagent	simple_agrmt	les pilotes déménage	2
+123	expected	62	62	parlent	simple_agrmt	les pilotes parlent	2
+124	unexpected	62	62	parlent	simple_agrmt	les pilotes parle	2
+125	expected	63	63	retournent	simple_agrmt	les pilotes retournent	2
+126	unexpected	63	63	retournent	simple_agrmt	les pilotes retourne	2
+127	expected	64	64	sont	simple_agrmt	les consultants sont vieux	2
+128	unexpected	64	64	sont	simple_agrmt	les consultants est vieux	2
+129	expected	65	65	sont	simple_agrmt	les consultants sont jeunes	2,3
+130	unexpected	65	65	sont	simple_agrmt	les consultants est jeune	2,3
+131	expected	66	66	sont	simple_agrmt	les consultants sont petits	2,3
+132	unexpected	66	66	sont	simple_agrmt	les consultants est petit	2,3
+133	expected	67	67	sont	simple_agrmt	les consultants sont grands	2,3
+134	unexpected	67	67	sont	simple_agrmt	les consultants est grand	2,3
+135	expected	68	68	déménagent	simple_agrmt	les consultants déménagent	2
+136	unexpected	68	68	déménagent	simple_agrmt	les consultants déménage	2
+137	expected	69	69	parlent	simple_agrmt	les consultants parlent	2
+138	unexpected	69	69	parlent	simple_agrmt	les consultants parle	2
+139	expected	70	70	retournent	simple_agrmt	les consultants retournent	2
+140	unexpected	70	70	retournent	simple_agrmt	les consultants retourne	2
+141	expected	71	71	est	simple_agrmt	l' auteur est vieux	2
+142	unexpected	71	71	est	simple_agrmt	l' auteur sont vieux	2
+143	expected	72	72	est	simple_agrmt	l' auteur est jeune	2,3
+144	unexpected	72	72	est	simple_agrmt	l' auteur sont jeunes	2,3
+145	expected	73	73	est	simple_agrmt	l' auteur est petit	2,3
+146	unexpected	73	73	est	simple_agrmt	l' auteur sont petits	2,3
+147	expected	74	74	est	simple_agrmt	l' auteur est grand	2,3
+148	unexpected	74	74	est	simple_agrmt	l' auteur sont grands	2,3
+149	expected	75	75	déménage	simple_agrmt	l' auteur déménage	2
+150	unexpected	75	75	déménage	simple_agrmt	l' auteur déménagent	2
+151	expected	76	76	parle	simple_agrmt	l' auteur parle	2
+152	unexpected	76	76	parle	simple_agrmt	l' auteur parlent	2
+153	expected	77	77	retourne	simple_agrmt	l' auteur retourne	2
+154	unexpected	77	77	retourne	simple_agrmt	l' auteur retournent	2
+155	expected	78	78	est	simple_agrmt	le directeur est vieux	2
+156	unexpected	78	78	est	simple_agrmt	le directeur sont vieux	2
+157	expected	79	79	est	simple_agrmt	le directeur est jeune	2,3
+158	unexpected	79	79	est	simple_agrmt	le directeur sont jeunes	2,3
+159	expected	80	80	est	simple_agrmt	le directeur est petit	2,3
+160	unexpected	80	80	est	simple_agrmt	le directeur sont petits	2,3
+161	expected	81	81	est	simple_agrmt	le directeur est grand	2,3
+162	unexpected	81	81	est	simple_agrmt	le directeur sont grands	2,3
+163	expected	82	82	déménage	simple_agrmt	le directeur déménage	2
+164	unexpected	82	82	déménage	simple_agrmt	le directeur déménagent	2
+165	expected	83	83	parle	simple_agrmt	le directeur parle	2
+166	unexpected	83	83	parle	simple_agrmt	le directeur parlent	2
+167	expected	84	84	retourne	simple_agrmt	le directeur retourne	2
+168	unexpected	84	84	retourne	simple_agrmt	le directeur retournent	2
+169	expected	85	85	est	simple_agrmt	l' agriculteur est vieux	2
+170	unexpected	85	85	est	simple_agrmt	l' agriculteur sont vieux	2
+171	expected	86	86	est	simple_agrmt	l' agriculteur est jeune	2,3
+172	unexpected	86	86	est	simple_agrmt	l' agriculteur sont jeunes	2,3
+173	expected	87	87	est	simple_agrmt	l' agriculteur est petit	2,3
+174	unexpected	87	87	est	simple_agrmt	l' agriculteur sont petits	2,3
+175	expected	88	88	est	simple_agrmt	l' agriculteur est grand	2,3
+176	unexpected	88	88	est	simple_agrmt	l' agriculteur sont grands	2,3
+177	expected	89	89	déménage	simple_agrmt	l' agriculteur déménage	2
+178	unexpected	89	89	déménage	simple_agrmt	l' agriculteur déménagent	2
+179	expected	90	90	parle	simple_agrmt	l' agriculteur parle	2
+180	unexpected	90	90	parle	simple_agrmt	l' agriculteur parlent	2
+181	expected	91	91	retourne	simple_agrmt	l' agriculteur retourne	2
+182	unexpected	91	91	retourne	simple_agrmt	l' agriculteur retournent	2
+183	expected	92	92	est	simple_agrmt	le chirurgien est vieux	2
+184	unexpected	92	92	est	simple_agrmt	le chirurgien sont vieux	2
+185	expected	93	93	est	simple_agrmt	le chirurgien est jeune	2,3
+186	unexpected	93	93	est	simple_agrmt	le chirurgien sont jeunes	2,3
+187	expected	94	94	est	simple_agrmt	le chirurgien est petit	2,3
+188	unexpected	94	94	est	simple_agrmt	le chirurgien sont petits	2,3
+189	expected	95	95	est	simple_agrmt	le chirurgien est grand	2,3
+190	unexpected	95	95	est	simple_agrmt	le chirurgien sont grands	2,3
+191	expected	96	96	déménage	simple_agrmt	le chirurgien déménage	2
+192	unexpected	96	96	déménage	simple_agrmt	le chirurgien déménagent	2
+193	expected	97	97	parle	simple_agrmt	le chirurgien parle	2
+194	unexpected	97	97	parle	simple_agrmt	le chirurgien parlent	2
+195	expected	98	98	retourne	simple_agrmt	le chirurgien retourne	2
+196	unexpected	98	98	retourne	simple_agrmt	le chirurgien retournent	2
+197	expected	99	99	est	simple_agrmt	le sénateur est vieux	2
+198	unexpected	99	99	est	simple_agrmt	le sénateur sont vieux	2
+199	expected	100	100	est	simple_agrmt	le sénateur est jeune	2,3
+200	unexpected	100	100	est	simple_agrmt	le sénateur sont jeunes	2,3
+201	expected	101	101	est	simple_agrmt	le sénateur est petit	2,3
+202	unexpected	101	101	est	simple_agrmt	le sénateur sont petits	2,3
+203	expected	102	102	est	simple_agrmt	le sénateur est grand	2,3
+204	unexpected	102	102	est	simple_agrmt	le sénateur sont grands	2,3
+205	expected	103	103	déménage	simple_agrmt	le sénateur déménage	2
+206	unexpected	103	103	déménage	simple_agrmt	le sénateur déménagent	2
+207	expected	104	104	parle	simple_agrmt	le sénateur parle	2
+208	unexpected	104	104	parle	simple_agrmt	le sénateur parlent	2
+209	expected	105	105	retourne	simple_agrmt	le sénateur retourne	2
+210	unexpected	105	105	retourne	simple_agrmt	le sénateur retournent	2
+211	expected	106	106	est	simple_agrmt	le professeur est vieux	2
+212	unexpected	106	106	est	simple_agrmt	le professeur sont vieux	2
+213	expected	107	107	est	simple_agrmt	le professeur est jeune	2,3
+214	unexpected	107	107	est	simple_agrmt	le professeur sont jeunes	2,3
+215	expected	108	108	est	simple_agrmt	le professeur est petit	2,3
+216	unexpected	108	108	est	simple_agrmt	le professeur sont petits	2,3
+217	expected	109	109	est	simple_agrmt	le professeur est grand	2,3
+218	unexpected	109	109	est	simple_agrmt	le professeur sont grands	2,3
+219	expected	110	110	déménage	simple_agrmt	le professeur déménage	2
+220	unexpected	110	110	déménage	simple_agrmt	le professeur déménagent	2
+221	expected	111	111	parle	simple_agrmt	le professeur parle	2
+222	unexpected	111	111	parle	simple_agrmt	le professeur parlent	2
+223	expected	112	112	retourne	simple_agrmt	le professeur retourne	2
+224	unexpected	112	112	retourne	simple_agrmt	le professeur retournent	2
+225	expected	113	113	est	simple_agrmt	le client est vieux	2
+226	unexpected	113	113	est	simple_agrmt	le client sont vieux	2
+227	expected	114	114	est	simple_agrmt	le client est jeune	2,3
+228	unexpected	114	114	est	simple_agrmt	le client sont jeunes	2,3
+229	expected	115	115	est	simple_agrmt	le client est petit	2,3
+230	unexpected	115	115	est	simple_agrmt	le client sont petits	2,3
+231	expected	116	116	est	simple_agrmt	le client est grand	2,3
+232	unexpected	116	116	est	simple_agrmt	le client sont grands	2,3
+233	expected	117	117	déménage	simple_agrmt	le client déménage	2
+234	unexpected	117	117	déménage	simple_agrmt	le client déménagent	2
+235	expected	118	118	parle	simple_agrmt	le client parle	2
+236	unexpected	118	118	parle	simple_agrmt	le client parlent	2
+237	expected	119	119	retourne	simple_agrmt	le client retourne	2
+238	unexpected	119	119	retourne	simple_agrmt	le client retournent	2
+239	expected	120	120	est	simple_agrmt	l' officier est vieux	2
+240	unexpected	120	120	est	simple_agrmt	l' officier sont vieux	2
+241	expected	121	121	est	simple_agrmt	l' officier est jeune	2,3
+242	unexpected	121	121	est	simple_agrmt	l' officier sont jeunes	2,3
+243	expected	122	122	est	simple_agrmt	l' officier est petit	2,3
+244	unexpected	122	122	est	simple_agrmt	l' officier sont petits	2,3
+245	expected	123	123	est	simple_agrmt	l' officier est grand	2,3
+246	unexpected	123	123	est	simple_agrmt	l' officier sont grands	2,3
+247	expected	124	124	déménage	simple_agrmt	l' officier déménage	2
+248	unexpected	124	124	déménage	simple_agrmt	l' officier déménagent	2
+249	expected	125	125	parle	simple_agrmt	l' officier parle	2
+250	unexpected	125	125	parle	simple_agrmt	l' officier parlent	2
+251	expected	126	126	retourne	simple_agrmt	l' officier retourne	2
+252	unexpected	126	126	retourne	simple_agrmt	l' officier retournent	2
+253	expected	127	127	est	simple_agrmt	le pilote est vieux	2
+254	unexpected	127	127	est	simple_agrmt	le pilote sont vieux	2
+255	expected	128	128	est	simple_agrmt	le pilote est jeune	2,3
+256	unexpected	128	128	est	simple_agrmt	le pilote sont jeunes	2,3
+257	expected	129	129	est	simple_agrmt	le pilote est petit	2,3
+258	unexpected	129	129	est	simple_agrmt	le pilote sont petits	2,3
+259	expected	130	130	est	simple_agrmt	le pilote est grand	2,3
+260	unexpected	130	130	est	simple_agrmt	le pilote sont grands	2,3
+261	expected	131	131	déménage	simple_agrmt	le pilote déménage	2
+262	unexpected	131	131	déménage	simple_agrmt	le pilote déménagent	2
+263	expected	132	132	parle	simple_agrmt	le pilote parle	2
+264	unexpected	132	132	parle	simple_agrmt	le pilote parlent	2
+265	expected	133	133	retourne	simple_agrmt	le pilote retourne	2
+266	unexpected	133	133	retourne	simple_agrmt	le pilote retournent	2
+267	expected	134	134	est	simple_agrmt	le consultant est vieux	2
+268	unexpected	134	134	est	simple_agrmt	le consultant sont vieux	2
+269	expected	135	135	est	simple_agrmt	le consultant est jeune	2,3
+270	unexpected	135	135	est	simple_agrmt	le consultant sont jeunes	2,3
+271	expected	136	136	est	simple_agrmt	le consultant est petit	2,3
+272	unexpected	136	136	est	simple_agrmt	le consultant sont petits	2,3
+273	expected	137	137	est	simple_agrmt	le consultant est grand	2,3
+274	unexpected	137	137	est	simple_agrmt	le consultant sont grands	2,3
+275	expected	138	138	déménage	simple_agrmt	le consultant déménage	2
+276	unexpected	138	138	déménage	simple_agrmt	le consultant déménagent	2
+277	expected	139	139	parle	simple_agrmt	le consultant parle	2
+278	unexpected	139	139	parle	simple_agrmt	le consultant parlent	2
+279	expected	140	140	retourne	simple_agrmt	le consultant retourne	2
+280	unexpected	140	140	retourne	simple_agrmt	le consultant retournent	2
+281	expected	141	141	sont	simple_agrmt	les gardes sont vieux	2
+282	unexpected	141	141	sont	simple_agrmt	les gardes est vieux	2
+283	expected	142	142	sont	simple_agrmt	les gardes sont jeunes	2,3
+284	unexpected	142	142	sont	simple_agrmt	les gardes est jeune	2,3
+285	expected	143	143	sont	simple_agrmt	les gardes sont petits	2,3
+286	unexpected	143	143	sont	simple_agrmt	les gardes est petit	2,3
+287	expected	144	144	sont	simple_agrmt	les gardes sont grands	2,3
+288	unexpected	144	144	sont	simple_agrmt	les gardes est grand	2,3
+289	expected	145	145	déménagent	simple_agrmt	les gardes déménagent	2
+290	unexpected	145	145	déménagent	simple_agrmt	les gardes déménage	2
+291	expected	146	146	parlent	simple_agrmt	les gardes parlent	2
+292	unexpected	146	146	parlent	simple_agrmt	les gardes parle	2
+293	expected	147	147	retournent	simple_agrmt	les gardes retournent	2
+294	unexpected	147	147	retournent	simple_agrmt	les gardes retourne	2
+295	expected	148	148	sont	simple_agrmt	les ministres sont vieux	2
+296	unexpected	148	148	sont	simple_agrmt	les ministres est vieux	2
+297	expected	149	149	sont	simple_agrmt	les ministres sont jeunes	2,3
+298	unexpected	149	149	sont	simple_agrmt	les ministres est jeune	2,3
+299	expected	150	150	sont	simple_agrmt	les ministres sont petits	2,3
+300	unexpected	150	150	sont	simple_agrmt	les ministres est petit	2,3
+301	expected	151	151	sont	simple_agrmt	les ministres sont grands	2,3
+302	unexpected	151	151	sont	simple_agrmt	les ministres est grand	2,3
+303	expected	152	152	déménagent	simple_agrmt	les ministres déménagent	2
+304	unexpected	152	152	déménagent	simple_agrmt	les ministres déménage	2
+305	expected	153	153	parlent	simple_agrmt	les ministres parlent	2
+306	unexpected	153	153	parlent	simple_agrmt	les ministres parle	2
+307	expected	154	154	retournent	simple_agrmt	les ministres retournent	2
+308	unexpected	154	154	retournent	simple_agrmt	les ministres retourne	2
+309	expected	155	155	sont	simple_agrmt	les cadres sont vieux	2
+310	unexpected	155	155	sont	simple_agrmt	les cadres est vieux	2
+311	expected	156	156	sont	simple_agrmt	les cadres sont jeunes	2,3
+312	unexpected	156	156	sont	simple_agrmt	les cadres est jeune	2,3
+313	expected	157	157	sont	simple_agrmt	les cadres sont petits	2,3
+314	unexpected	157	157	sont	simple_agrmt	les cadres est petit	2,3
+315	expected	158	158	sont	simple_agrmt	les cadres sont grands	2,3
+316	unexpected	158	158	sont	simple_agrmt	les cadres est grand	2,3
+317	expected	159	159	déménagent	simple_agrmt	les cadres déménagent	2
+318	unexpected	159	159	déménagent	simple_agrmt	les cadres déménage	2
+319	expected	160	160	parlent	simple_agrmt	les cadres parlent	2
+320	unexpected	160	160	parlent	simple_agrmt	les cadres parle	2
+321	expected	161	161	retournent	simple_agrmt	les cadres retournent	2
+322	unexpected	161	161	retournent	simple_agrmt	les cadres retourne	2
+323	expected	162	162	sont	simple_agrmt	les adjoints sont vieux	2
+324	unexpected	162	162	sont	simple_agrmt	les adjoints est vieux	2
+325	expected	163	163	sont	simple_agrmt	les adjoints sont jeunes	2,3
+326	unexpected	163	163	sont	simple_agrmt	les adjoints est jeune	2,3
+327	expected	164	164	sont	simple_agrmt	les adjoints sont petits	2,3
+328	unexpected	164	164	sont	simple_agrmt	les adjoints est petit	2,3
+329	expected	165	165	sont	simple_agrmt	les adjoints sont grands	2,3
+330	unexpected	165	165	sont	simple_agrmt	les adjoints est grand	2,3
+331	expected	166	166	déménagent	simple_agrmt	les adjoints déménagent	2
+332	unexpected	166	166	déménagent	simple_agrmt	les adjoints déménage	2
+333	expected	167	167	parlent	simple_agrmt	les adjoints parlent	2
+334	unexpected	167	167	parlent	simple_agrmt	les adjoints parle	2
+335	expected	168	168	retournent	simple_agrmt	les adjoints retournent	2
+336	unexpected	168	168	retournent	simple_agrmt	les adjoints retourne	2
+337	expected	169	169	sont	simple_agrmt	les chauffeurs de taxi sont vieux	4
+338	unexpected	169	169	sont	simple_agrmt	les chauffeurs de taxi est vieux	4
+339	expected	170	170	sont	simple_agrmt	les chauffeurs de taxi sont jeunes	4,5
+340	unexpected	170	170	sont	simple_agrmt	les chauffeurs de taxi est jeune	4,5
+341	expected	171	171	sont	simple_agrmt	les chauffeurs de taxi sont petits	4,5
+342	unexpected	171	171	sont	simple_agrmt	les chauffeurs de taxi est petit	4,5
+343	expected	172	172	sont	simple_agrmt	les chauffeurs de taxi sont grands	4,5
+344	unexpected	172	172	sont	simple_agrmt	les chauffeurs de taxi est grand	4,5
+345	expected	173	173	déménagent	simple_agrmt	les chauffeurs de taxi déménagent	4
+346	unexpected	173	173	déménagent	simple_agrmt	les chauffeurs de taxi déménage	4
+347	expected	174	174	parlent	simple_agrmt	les chauffeurs de taxi parlent	4
+348	unexpected	174	174	parlent	simple_agrmt	les chauffeurs de taxi parle	4
+349	expected	175	175	retournent	simple_agrmt	les chauffeurs de taxi retournent	4
+350	unexpected	175	175	retournent	simple_agrmt	les chauffeurs de taxi retourne	4
+351	expected	176	176	sont	simple_agrmt	les danseurs sont vieux	2
+352	unexpected	176	176	sont	simple_agrmt	les danseurs est vieux	2
+353	expected	177	177	sont	simple_agrmt	les danseurs sont jeunes	2,3
+354	unexpected	177	177	sont	simple_agrmt	les danseurs est jeune	2,3
+355	expected	178	178	sont	simple_agrmt	les danseurs sont petits	2,3
+356	unexpected	178	178	sont	simple_agrmt	les danseurs est petit	2,3
+357	expected	179	179	sont	simple_agrmt	les danseurs sont grands	2,3
+358	unexpected	179	179	sont	simple_agrmt	les danseurs est grand	2,3
+359	expected	180	180	déménagent	simple_agrmt	les danseurs déménagent	2
+360	unexpected	180	180	déménagent	simple_agrmt	les danseurs déménage	2
+361	expected	181	181	parlent	simple_agrmt	les danseurs parlent	2
+362	unexpected	181	181	parlent	simple_agrmt	les danseurs parle	2
+363	expected	182	182	retournent	simple_agrmt	les danseurs retournent	2
+364	unexpected	182	182	retournent	simple_agrmt	les danseurs retourne	2
+365	expected	183	183	sont	simple_agrmt	les architectes sont vieux	2
+366	unexpected	183	183	sont	simple_agrmt	les architectes est vieux	2
+367	expected	184	184	sont	simple_agrmt	les architectes sont jeunes	2,3
+368	unexpected	184	184	sont	simple_agrmt	les architectes est jeune	2,3
+369	expected	185	185	sont	simple_agrmt	les architectes sont petits	2,3
+370	unexpected	185	185	sont	simple_agrmt	les architectes est petit	2,3
+371	expected	186	186	sont	simple_agrmt	les architectes sont grands	2,3
+372	unexpected	186	186	sont	simple_agrmt	les architectes est grand	2,3
+373	expected	187	187	déménagent	simple_agrmt	les architectes déménagent	2
+374	unexpected	187	187	déménagent	simple_agrmt	les architectes déménage	2
+375	expected	188	188	parlent	simple_agrmt	les architectes parlent	2
+376	unexpected	188	188	parlent	simple_agrmt	les architectes parle	2
+377	expected	189	189	retournent	simple_agrmt	les architectes retournent	2
+378	unexpected	189	189	retournent	simple_agrmt	les architectes retourne	2
+379	expected	190	190	sont	simple_agrmt	les chefs sont vieux	2
+380	unexpected	190	190	sont	simple_agrmt	les chefs est vieux	2
+381	expected	191	191	sont	simple_agrmt	les chefs sont jeunes	2,3
+382	unexpected	191	191	sont	simple_agrmt	les chefs est jeune	2,3
+383	expected	192	192	sont	simple_agrmt	les chefs sont petits	2,3
+384	unexpected	192	192	sont	simple_agrmt	les chefs est petit	2,3
+385	expected	193	193	sont	simple_agrmt	les chefs sont grands	2,3
+386	unexpected	193	193	sont	simple_agrmt	les chefs est grand	2,3
+387	expected	194	194	déménagent	simple_agrmt	les chefs déménagent	2
+388	unexpected	194	194	déménagent	simple_agrmt	les chefs déménage	2
+389	expected	195	195	parlent	simple_agrmt	les chefs parlent	2
+390	unexpected	195	195	parlent	simple_agrmt	les chefs parle	2
+391	expected	196	196	retournent	simple_agrmt	les chefs retournent	2
+392	unexpected	196	196	retournent	simple_agrmt	les chefs retourne	2
+393	expected	197	197	sont	simple_agrmt	les patineurs sont vieux	2
+394	unexpected	197	197	sont	simple_agrmt	les patineurs est vieux	2
+395	expected	198	198	sont	simple_agrmt	les patineurs sont jeunes	2,3
+396	unexpected	198	198	sont	simple_agrmt	les patineurs est jeune	2,3
+397	expected	199	199	sont	simple_agrmt	les patineurs sont petits	2,3
+398	unexpected	199	199	sont	simple_agrmt	les patineurs est petit	2,3
+399	expected	200	200	sont	simple_agrmt	les patineurs sont grands	2,3
+400	unexpected	200	200	sont	simple_agrmt	les patineurs est grand	2,3
+401	expected	201	201	déménagent	simple_agrmt	les patineurs déménagent	2
+402	unexpected	201	201	déménagent	simple_agrmt	les patineurs déménage	2
+403	expected	202	202	parlent	simple_agrmt	les patineurs parlent	2
+404	unexpected	202	202	parlent	simple_agrmt	les patineurs parle	2
+405	expected	203	203	retournent	simple_agrmt	les patineurs retournent	2
+406	unexpected	203	203	retournent	simple_agrmt	les patineurs retourne	2
+407	expected	204	204	sont	simple_agrmt	les parents sont vieux	2
+408	unexpected	204	204	sont	simple_agrmt	les parents est vieux	2
+409	expected	205	205	sont	simple_agrmt	les parents sont jeunes	2,3
+410	unexpected	205	205	sont	simple_agrmt	les parents est jeune	2,3
+411	expected	206	206	sont	simple_agrmt	les parents sont petits	2,3
+412	unexpected	206	206	sont	simple_agrmt	les parents est petit	2,3
+413	expected	207	207	sont	simple_agrmt	les parents sont grands	2,3
+414	unexpected	207	207	sont	simple_agrmt	les parents est grand	2,3
+415	expected	208	208	déménagent	simple_agrmt	les parents déménagent	2
+416	unexpected	208	208	déménagent	simple_agrmt	les parents déménage	2
+417	expected	209	209	parlent	simple_agrmt	les parents parlent	2
+418	unexpected	209	209	parlent	simple_agrmt	les parents parle	2
+419	expected	210	210	retournent	simple_agrmt	les parents retournent	2
+420	unexpected	210	210	retournent	simple_agrmt	les parents retourne	2
+421	expected	211	211	est	simple_agrmt	le garde est vieux	2
+422	unexpected	211	211	est	simple_agrmt	le garde sont vieux	2
+423	expected	212	212	est	simple_agrmt	le garde est jeune	2,3
+424	unexpected	212	212	est	simple_agrmt	le garde sont jeunes	2,3
+425	expected	213	213	est	simple_agrmt	le garde est petit	2,3
+426	unexpected	213	213	est	simple_agrmt	le garde sont petits	2,3
+427	expected	214	214	est	simple_agrmt	le garde est grand	2,3
+428	unexpected	214	214	est	simple_agrmt	le garde sont grands	2,3
+429	expected	215	215	déménage	simple_agrmt	le garde déménage	2
+430	unexpected	215	215	déménage	simple_agrmt	le garde déménagent	2
+431	expected	216	216	parle	simple_agrmt	le garde parle	2
+432	unexpected	216	216	parle	simple_agrmt	le garde parlent	2
+433	expected	217	217	retourne	simple_agrmt	le garde retourne	2
+434	unexpected	217	217	retourne	simple_agrmt	le garde retournent	2
+435	expected	218	218	est	simple_agrmt	le ministre est vieux	2
+436	unexpected	218	218	est	simple_agrmt	le ministre sont vieux	2
+437	expected	219	219	est	simple_agrmt	le ministre est jeune	2,3
+438	unexpected	219	219	est	simple_agrmt	le ministre sont jeunes	2,3
+439	expected	220	220	est	simple_agrmt	le ministre est petit	2,3
+440	unexpected	220	220	est	simple_agrmt	le ministre sont petits	2,3
+441	expected	221	221	est	simple_agrmt	le ministre est grand	2,3
+442	unexpected	221	221	est	simple_agrmt	le ministre sont grands	2,3
+443	expected	222	222	déménage	simple_agrmt	le ministre déménage	2
+444	unexpected	222	222	déménage	simple_agrmt	le ministre déménagent	2
+445	expected	223	223	parle	simple_agrmt	le ministre parle	2
+446	unexpected	223	223	parle	simple_agrmt	le ministre parlent	2
+447	expected	224	224	retourne	simple_agrmt	le ministre retourne	2
+448	unexpected	224	224	retourne	simple_agrmt	le ministre retournent	2
+449	expected	225	225	est	simple_agrmt	le cadre est vieux	2
+450	unexpected	225	225	est	simple_agrmt	le cadre sont vieux	2
+451	expected	226	226	est	simple_agrmt	le cadre est jeune	2,3
+452	unexpected	226	226	est	simple_agrmt	le cadre sont jeunes	2,3
+453	expected	227	227	est	simple_agrmt	le cadre est petit	2,3
+454	unexpected	227	227	est	simple_agrmt	le cadre sont petits	2,3
+455	expected	228	228	est	simple_agrmt	le cadre est grand	2,3
+456	unexpected	228	228	est	simple_agrmt	le cadre sont grands	2,3
+457	expected	229	229	déménage	simple_agrmt	le cadre déménage	2
+458	unexpected	229	229	déménage	simple_agrmt	le cadre déménagent	2
+459	expected	230	230	parle	simple_agrmt	le cadre parle	2
+460	unexpected	230	230	parle	simple_agrmt	le cadre parlent	2
+461	expected	231	231	retourne	simple_agrmt	le cadre retourne	2
+462	unexpected	231	231	retourne	simple_agrmt	le cadre retournent	2
+463	expected	232	232	est	simple_agrmt	l' adjoint est vieux	2
+464	unexpected	232	232	est	simple_agrmt	l' adjoint sont vieux	2
+465	expected	233	233	est	simple_agrmt	l' adjoint est jeune	2,3
+466	unexpected	233	233	est	simple_agrmt	l' adjoint sont jeunes	2,3
+467	expected	234	234	est	simple_agrmt	l' adjoint est petit	2,3
+468	unexpected	234	234	est	simple_agrmt	l' adjoint sont petits	2,3
+469	expected	235	235	est	simple_agrmt	l' adjoint est grand	2,3
+470	unexpected	235	235	est	simple_agrmt	l' adjoint sont grands	2,3
+471	expected	236	236	déménage	simple_agrmt	l' adjoint déménage	2
+472	unexpected	236	236	déménage	simple_agrmt	l' adjoint déménagent	2
+473	expected	237	237	parle	simple_agrmt	l' adjoint parle	2
+474	unexpected	237	237	parle	simple_agrmt	l' adjoint parlent	2
+475	expected	238	238	retourne	simple_agrmt	l' adjoint retourne	2
+476	unexpected	238	238	retourne	simple_agrmt	l' adjoint retournent	2
+477	expected	239	239	est	simple_agrmt	le chauffeur de taxi est vieux	4
+478	unexpected	239	239	est	simple_agrmt	le chauffeur de taxi sont vieux	4
+479	expected	240	240	est	simple_agrmt	le chauffeur de taxi est jeune	4,5
+480	unexpected	240	240	est	simple_agrmt	le chauffeur de taxi sont jeunes	4,5
+481	expected	241	241	est	simple_agrmt	le chauffeur de taxi est petit	4,5
+482	unexpected	241	241	est	simple_agrmt	le chauffeur de taxi sont petits	4,5
+483	expected	242	242	est	simple_agrmt	le chauffeur de taxi est grand	4,5
+484	unexpected	242	242	est	simple_agrmt	le chauffeur de taxi sont grands	4,5
+485	expected	243	243	déménage	simple_agrmt	le chauffeur de taxi déménage	4
+486	unexpected	243	243	déménage	simple_agrmt	le chauffeur de taxi déménagent	4
+487	expected	244	244	parle	simple_agrmt	le chauffeur de taxi parle	4
+488	unexpected	244	244	parle	simple_agrmt	le chauffeur de taxi parlent	4
+489	expected	245	245	retourne	simple_agrmt	le chauffeur de taxi retourne	4
+490	unexpected	245	245	retourne	simple_agrmt	le chauffeur de taxi retournent	4
+491	expected	246	246	est	simple_agrmt	le danseur est vieux	2
+492	unexpected	246	246	est	simple_agrmt	le danseur sont vieux	2
+493	expected	247	247	est	simple_agrmt	le danseur est jeune	2,3
+494	unexpected	247	247	est	simple_agrmt	le danseur sont jeunes	2,3
+495	expected	248	248	est	simple_agrmt	le danseur est petit	2,3
+496	unexpected	248	248	est	simple_agrmt	le danseur sont petits	2,3
+497	expected	249	249	est	simple_agrmt	le danseur est grand	2,3
+498	unexpected	249	249	est	simple_agrmt	le danseur sont grands	2,3
+499	expected	250	250	déménage	simple_agrmt	le danseur déménage	2
+500	unexpected	250	250	déménage	simple_agrmt	le danseur déménagent	2
+501	expected	251	251	parle	simple_agrmt	le danseur parle	2
+502	unexpected	251	251	parle	simple_agrmt	le danseur parlent	2
+503	expected	252	252	retourne	simple_agrmt	le danseur retourne	2
+504	unexpected	252	252	retourne	simple_agrmt	le danseur retournent	2
+505	expected	253	253	est	simple_agrmt	l' architecte est vieux	2
+506	unexpected	253	253	est	simple_agrmt	l' architecte sont vieux	2
+507	expected	254	254	est	simple_agrmt	l' architecte est jeune	2,3
+508	unexpected	254	254	est	simple_agrmt	l' architecte sont jeunes	2,3
+509	expected	255	255	est	simple_agrmt	l' architecte est petit	2,3
+510	unexpected	255	255	est	simple_agrmt	l' architecte sont petits	2,3
+511	expected	256	256	est	simple_agrmt	l' architecte est grand	2,3
+512	unexpected	256	256	est	simple_agrmt	l' architecte sont grands	2,3
+513	expected	257	257	déménage	simple_agrmt	l' architecte déménage	2
+514	unexpected	257	257	déménage	simple_agrmt	l' architecte déménagent	2
+515	expected	258	258	parle	simple_agrmt	l' architecte parle	2
+516	unexpected	258	258	parle	simple_agrmt	l' architecte parlent	2
+517	expected	259	259	retourne	simple_agrmt	l' architecte retourne	2
+518	unexpected	259	259	retourne	simple_agrmt	l' architecte retournent	2
+519	expected	260	260	est	simple_agrmt	le chef est vieux	2
+520	unexpected	260	260	est	simple_agrmt	le chef sont vieux	2
+521	expected	261	261	est	simple_agrmt	le chef est jeune	2,3
+522	unexpected	261	261	est	simple_agrmt	le chef sont jeunes	2,3
+523	expected	262	262	est	simple_agrmt	le chef est petit	2,3
+524	unexpected	262	262	est	simple_agrmt	le chef sont petits	2,3
+525	expected	263	263	est	simple_agrmt	le chef est grand	2,3
+526	unexpected	263	263	est	simple_agrmt	le chef sont grands	2,3
+527	expected	264	264	déménage	simple_agrmt	le chef déménage	2
+528	unexpected	264	264	déménage	simple_agrmt	le chef déménagent	2
+529	expected	265	265	parle	simple_agrmt	le chef parle	2
+530	unexpected	265	265	parle	simple_agrmt	le chef parlent	2
+531	expected	266	266	retourne	simple_agrmt	le chef retourne	2
+532	unexpected	266	266	retourne	simple_agrmt	le chef retournent	2
+533	expected	267	267	est	simple_agrmt	le patineur est vieux	2
+534	unexpected	267	267	est	simple_agrmt	le patineur sont vieux	2
+535	expected	268	268	est	simple_agrmt	le patineur est jeune	2,3
+536	unexpected	268	268	est	simple_agrmt	le patineur sont jeunes	2,3
+537	expected	269	269	est	simple_agrmt	le patineur est petit	2,3
+538	unexpected	269	269	est	simple_agrmt	le patineur sont petits	2,3
+539	expected	270	270	est	simple_agrmt	le patineur est grand	2,3
+540	unexpected	270	270	est	simple_agrmt	le patineur sont grands	2,3
+541	expected	271	271	déménage	simple_agrmt	le patineur déménage	2
+542	unexpected	271	271	déménage	simple_agrmt	le patineur déménagent	2
+543	expected	272	272	parle	simple_agrmt	le patineur parle	2
+544	unexpected	272	272	parle	simple_agrmt	le patineur parlent	2
+545	expected	273	273	retourne	simple_agrmt	le patineur retourne	2
+546	unexpected	273	273	retourne	simple_agrmt	le patineur retournent	2
+547	expected	274	274	est	simple_agrmt	le parent est vieux	2
+548	unexpected	274	274	est	simple_agrmt	le parent sont vieux	2
+549	expected	275	275	est	simple_agrmt	le parent est jeune	2,3
+550	unexpected	275	275	est	simple_agrmt	le parent sont jeunes	2,3
+551	expected	276	276	est	simple_agrmt	le parent est petit	2,3
+552	unexpected	276	276	est	simple_agrmt	le parent sont petits	2,3
+553	expected	277	277	est	simple_agrmt	le parent est grand	2,3
+554	unexpected	277	277	est	simple_agrmt	le parent sont grands	2,3
+555	expected	278	278	déménage	simple_agrmt	le parent déménage	2
+556	unexpected	278	278	déménage	simple_agrmt	le parent déménagent	2
+557	expected	279	279	parle	simple_agrmt	le parent parle	2
+558	unexpected	279	279	parle	simple_agrmt	le parent parlent	2
+559	expected	280	280	retourne	simple_agrmt	le parent retourne	2
+560	unexpected	280	280	retourne	simple_agrmt	le parent retournent	2
