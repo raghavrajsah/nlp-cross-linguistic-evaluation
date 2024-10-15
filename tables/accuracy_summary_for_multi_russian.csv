@@ -1,0 +1,6 @@
+File Name,Accuracy
+long_vp_coord_ru.tsv,0.854
+vp_coord_ru.tsv,0.713265306122449
+simple_agrmt_ru.tsv,0.6535714285714286
+obj_rel_within_anim_ru.tsv,0.4894642857142857
+prep_anim_ru.tsv,0.6260204081632653

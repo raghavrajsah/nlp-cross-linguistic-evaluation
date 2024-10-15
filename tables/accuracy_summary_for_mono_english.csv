@@ -1,0 +1,19 @@
+File Name,Accuracy
+prep_inanim_en_mono.tsv,0.9236111111111112
+prep_anim_en_mono.tsv,0.7852976190476191
+obj_rel_across_inanim_en_mono.tsv,0.955059523809524
+obj_rel_no_comp_within_inanim_en_mono.tsv,0.7788690476190476
+reflexive_sent_comp_en_mono.tsv,0.6285714285714286
+obj_rel_within_inanim_en_mono.tsv,0.8666666666666667
+vp_coord_en_mono.tsv,0.8845238095238095
+obj_rel_no_comp_across_inanim_en_mono.tsv,0.8775793650793651
+simple_reflexives_en_mono.tsv,0.8571428571428571
+subj_rel_en_mono.tsv,0.818125
+reflexives_across_en_mono.tsv,0.8797767857142857
+long_vp_coord_en_mono.tsv,0.95
+sent_comp_en_mono.tsv,0.7619047619047619
+obj_rel_no_comp_within_anim_en_mono.tsv,0.6070535714285714
+obj_rel_within_anim_en_mono.tsv,0.86
+obj_rel_across_anim_en_mono.tsv,0.8542857142857143
+obj_rel_no_comp_across_anim_en_mono.tsv,0.7630357142857143
+simple_agrmt_en_mono.tsv,0.8857142857142857

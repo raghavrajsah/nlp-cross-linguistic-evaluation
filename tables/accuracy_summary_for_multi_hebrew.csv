@@ -1,0 +1,8 @@
+File Name,Accuracy
+obj_rel_across_anim_he.tsv,0.5264285714285715
+prep_anim_he.tsv,0.5528571428571428
+vp_coord_he.tsv,0.6755102040816326
+subj_rel_he.tsv,0.6104464285714286
+obj_rel_within_anim_he.tsv,0.5298214285714286
+long_vp_coord_he.tsv,0.83
+simple_agrmt_he.tsv,0.6785714285714286

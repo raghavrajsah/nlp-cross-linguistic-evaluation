@@ -1,0 +1,8 @@
+File Name,Accuracy
+simple_agrmt_fr.tsv,0.6214285714285714
+prep_anim_fr.tsv,0.4827857142857142
+obj_rel_within_anim_fr.tsv,0.71
+long_vp_coord_fr.tsv,0.87
+subj_rel_fr.tsv,0.5239732142857143
+obj_rel_across_anim_fr.tsv,0.5048660714285714
+vp_coord_fr.tsv,0.6454081632653061

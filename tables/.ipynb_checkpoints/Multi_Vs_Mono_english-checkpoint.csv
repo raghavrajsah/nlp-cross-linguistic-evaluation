@@ -1,0 +1,21 @@
+File Name,Accuracy (Mono Lingual Model),Accuracy (Multi-Lingual Model)
+long_vp_coord_en_mono.tsv,0.95,0.8125
+obj_rel_across_anim_en_mono.tsv,0.8542857142857143,0.566875
+obj_rel_across_inanim_en_mono.tsv,0.955059524,0.8101190476190476
+obj_rel_no_comp_across_anim_en_mono.tsv,0.7630357142857143,0.5098214285714285
+obj_rel_no_comp_across_inanim_en_mono.tsv,0.8775793650793651,0.5637896825396825
+obj_rel_no_comp_within_anim_en_mono.tsv,0.6070535714285714,0.5366071428571428
+obj_rel_no_comp_within_inanim_en_mono.tsv,0.7788690476190476,0.5552579365079365
+obj_rel_within_anim_en_mono.tsv,0.86,0.5819642857142857
+obj_rel_within_inanim_en_mono.tsv,0.8666666666666667,0.5848214285714286
+prep_anim_en_mono.tsv,0.7852976190476191,0.5480952380952381
+prep_inanim_en_mono.tsv,0.9236111111111112,0.7117063492063492
+reflexive_sent_comp_en_mono.tsv,0.6285714285714286,0.737202381
+reflexives_across_en_mono.tsv,0.8797767857142857,0.7250446428571429
+sent_comp_en_mono.tsv,0.7619047619047619,0.7595238095238095
+simple_agrmt_en_mono.tsv,0.8857142857142857,0.7857142857142857
+simple_reflexives_en_mono.tsv,0.8571428571428571,0.6285714285714286
+subj_rel_en_mono.tsv,0.818125,0.5403571428571429
+vp_coord_en_mono.tsv,0.8845238095238095,0.780952381
+,,
+Average,0.895796131,0.72438244
