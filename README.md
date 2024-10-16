@@ -24,7 +24,8 @@ The original paper investigates two main hypotheses:
 - `data/`: Contains the preprocessed datasets for each language.
 - `scripts/`: Python scripts for preprocessing, model training, and evaluation.
 - `results/`: Model outputs and performance metrics.
-- `notebooks/`: Jupyter notebooks for exploring the datasets and results.
+- `tables/`: Tables with comparison across languages
+
 
 ## Experimental Setup
 
